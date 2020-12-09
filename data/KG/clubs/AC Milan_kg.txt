@@ -1,0 +1,144 @@
+AC Milan	ground	San Siro
+San Siro	capacity	78,275
+AC Milan	chairman	Paolo Scaroni
+AC Milan	coach	Stefano Pioli
+AC Milan	has player	Davide Calabria
+Davide Calabria	position	defender
+Davide Calabria	goals	3
+Davide Calabria	caps	101
+Davide Calabria	date of birth	1996-12-06
+Davide Calabria	jersey	2
+Davide Calabria	height	1.77 m
+AC Milan	has player	Ismael Bennacer
+Ismael Bennacer	position	midfielder
+Ismael Bennacer	goals	1
+Ismael Bennacer	caps	39
+Ismael Bennacer	date of birth	1997-12-01
+Ismael Bennacer	jersey	4
+Ismael Bennacer	height	1.75 m
+AC Milan	has player	Samu Castillejo
+Samu Castillejo	position	midfielder
+Samu Castillejo	goals	7
+Samu Castillejo	caps	59
+Samu Castillejo	date of birth	1995-01-18
+Samu Castillejo	jersey	7
+Samu Castillejo	height	1.82 m
+AC Milan	has player	Sandro Tonali
+Sandro Tonali	position	midfielder
+Sandro Tonali	goals	0
+Sandro Tonali	caps	8
+Sandro Tonali	date of birth	2000-05-08
+Sandro Tonali	jersey	8
+Sandro Tonali	height	1.82 m
+AC Milan	has player	Hakan Calhanoglu
+Hakan Calhanoglu	position	midfielder
+Hakan Calhanoglu	goals	18
+Hakan Calhanoglu	caps	112
+Hakan Calhanoglu	date of birth	1994-02-08
+Hakan Calhanoglu	jersey	10
+Hakan Calhanoglu	height	1.78 m
+AC Milan	has player	Zlatan Ibrahimovic
+Zlatan Ibrahimovic	position	forward
+Zlatan Ibrahimovic	goals	20
+Zlatan Ibrahimovic	caps	24
+Zlatan Ibrahimovic	date of birth	1981-10-03
+Zlatan Ibrahimovic	jersey	11
+Zlatan Ibrahimovic	height	1.95 m
+AC Milan	has player	Ante Rebic
+Ante Rebic	position	forward
+Ante Rebic	goals	0
+Ante Rebic	caps	7
+Ante Rebic	date of birth	1993-09-21
+Ante Rebic	jersey	12
+Ante Rebic	height	1.85 m
+AC Milan	has player	Alessio Romagnoli
+Alessio Romagnoli	position	defender
+Alessio Romagnoli	goals	7
+Alessio Romagnoli	caps	162
+Alessio Romagnoli	date of birth	1995-01-12
+Alessio Romagnoli	jersey	13
+Alessio Romagnoli	height	1.88 m
+AC Milan	has player	Andrea Conti
+Andrea Conti	position	defender
+Andrea Conti	goals	0
+Andrea Conti	caps	37
+Andrea Conti	date of birth	1994-03-02
+Andrea Conti	jersey	14
+Andrea Conti	height	1.84 m
+AC Milan	has player	Rafael Leao
+Rafael Leao	position	forward
+Rafael Leao	goals	8
+Rafael Leao	caps	37
+Rafael Leao	date of birth	1999-06-10
+Rafael Leao	jersey	17
+Rafael Leao	height	1.88 m
+AC Milan	has player	Theo Hernandez
+Theo Hernandez	position	defender
+Theo Hernandez	goals	7
+Theo Hernandez	caps	43
+Theo Hernandez	date of birth	1997-10-06
+Theo Hernandez	jersey	19
+Theo Hernandez	height	1.84 m
+AC Milan	has player	Brahim Diaz
+Brahim Diaz	position	midfielder
+Brahim Diaz	goals	1
+Brahim Diaz	caps	7
+Brahim Diaz	date of birth	1999-08-03
+Brahim Diaz	jersey	21
+Brahim Diaz	height	1.71 m
+AC Milan	has player	Mateo Musacchio
+Mateo Musacchio	position	defender
+Mateo Musacchio	goals	1
+Mateo Musacchio	caps	62
+Mateo Musacchio	date of birth	1990-08-26
+Mateo Musacchio	jersey	22
+Mateo Musacchio	height	1.80 m
+AC Milan	has player	Simon Kjaer
+Simon Kjaer	position	defender
+Simon Kjaer	goals	0
+Simon Kjaer	caps	9
+Simon Kjaer	date of birth	1989-03-26
+Simon Kjaer	jersey	24
+Simon Kjaer	height	1.91 m
+AC Milan	has player	Rade Krunic
+Rade Krunic	position	midfielder
+Rade Krunic	goals	0
+Rade Krunic	caps	24
+Rade Krunic	date of birth	1993-10-07
+Rade Krunic	jersey	33
+Rade Krunic	height	1.84 m
+AC Milan	has player	Leo Duarte
+Leo Duarte	position	defender
+Leo Duarte	goals	0
+Leo Duarte	caps	7
+Leo Duarte	date of birth	1996-07-17
+Leo Duarte	jersey	43
+Leo Duarte	height	1.83 m
+AC Milan	has player	Matteo Gabbia
+Matteo Gabbia	position	defender
+Matteo Gabbia	goals	0
+Matteo Gabbia	caps	14
+Matteo Gabbia	date of birth	1999-10-21
+Matteo Gabbia	jersey	46
+Matteo Gabbia	height	1.86 m
+AC Milan	has player	Alexis Saelemaekers
+Alexis Saelemaekers	position	midfielder
+Alexis Saelemaekers	goals	2
+Alexis Saelemaekers	caps	23
+Alexis Saelemaekers	date of birth	1999-06-27
+Alexis Saelemaekers	jersey	56
+Alexis Saelemaekers	height	1.80 m
+AC Milan	has player	Franck Kessie
+Franck Kessie	position	midfielder
+Franck Kessie	goals	8
+Franck Kessie	caps	45
+Franck Kessie	date of birth	1996-12-19
+Franck Kessie	jersey	79
+Franck Kessie	height	1.83 m
+AC Milan	has player	Gianluigi Donnarumma
+Gianluigi Donnarumma	position	goalkeeper
+Gianluigi Donnarumma	goals	0
+Gianluigi Donnarumma	caps	187
+Gianluigi Donnarumma	date of birth	1999-02-25
+Gianluigi Donnarumma	jersey	99
+Gianluigi Donnarumma	height	1.96 m

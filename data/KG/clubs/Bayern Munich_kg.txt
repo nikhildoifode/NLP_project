@@ -1,0 +1,137 @@
+Bayern Munich	ground	Allianz Arena
+Allianz Arena	capacity	75,000
+Bayern Munich	chairman	Karl-Heinz Rummenigge
+Bayern Munich	coach	Hans-Dieter Flick
+Bayern Munich	has player	Manuel Neuer
+Manuel Neuer	position	goalkeeper
+Manuel Neuer	goals	0
+Manuel Neuer	caps	259
+Manuel Neuer	date of birth	1986-03-27
+Manuel Neuer	jersey	1
+Manuel Neuer	height	1.93 m
+Bayern Munich	has player	Niklas Sule
+Niklas Sule	position	defender
+Niklas Sule	goals	4
+Niklas Sule	caps	72
+Niklas Sule	date of birth	1995-09-03
+Niklas Sule	jersey	4
+Niklas Sule	height	1.95 m
+Bayern Munich	has player	Benjamin Pavard
+Benjamin Pavard	position	defender
+Benjamin Pavard	goals	5
+Benjamin Pavard	caps	40
+Benjamin Pavard	date of birth	1996-03-28
+Benjamin Pavard	jersey	5
+Benjamin Pavard	height	1.86 m
+Bayern Munich	has player	Joshua Kimmich
+Joshua Kimmich	position	midfielder
+Joshua Kimmich	goals	14
+Joshua Kimmich	caps	152
+Joshua Kimmich	date of birth	1995-02-08
+Joshua Kimmich	jersey	6
+Joshua Kimmich	height	1.76 m
+Bayern Munich	has player	Serge Gnabry
+Serge Gnabry	position	midfielder
+Serge Gnabry	goals	26
+Serge Gnabry	caps	70
+Serge Gnabry	date of birth	1995-07-14
+Serge Gnabry	jersey	7
+Serge Gnabry	height	1.75 m
+Bayern Munich	has player	Javi Martinez
+Javi Martinez	position	midfielder
+Javi Martinez	goals	9
+Javi Martinez	caps	153
+Javi Martinez	date of birth	1988-09-02
+Javi Martinez	jersey	8
+Javi Martinez	height	1.89 m
+Bayern Munich	has player	Robert Lewandowski
+Robert Lewandowski	position	forward
+Robert Lewandowski	goals	174
+Robert Lewandowski	caps	199
+Robert Lewandowski	date of birth	1988-08-21
+Robert Lewandowski	jersey	9
+Robert Lewandowski	height	1.84 m
+Bayern Munich	has player	Leroy Sane
+Leroy Sane	position	forward
+Leroy Sane	goals	3
+Leroy Sane	caps	8
+Leroy Sane	date of birth	1996-01-11
+Leroy Sane	jersey	10
+Leroy Sane	height	1.84 m
+Bayern Munich	has player	Douglas Costa
+Douglas Costa	position	midfielder
+Douglas Costa	goals	1
+Douglas Costa	caps	6
+Douglas Costa	date of birth	1990-09-14
+Douglas Costa	jersey	11
+Douglas Costa	height	1.72 m
+Bayern Munich	has player	Joshua Zirkzee
+Joshua Zirkzee	position	forward
+Joshua Zirkzee	goals	4
+Joshua Zirkzee	caps	12
+Joshua Zirkzee	date of birth	2001-05-22
+Joshua Zirkzee	jersey	14
+Joshua Zirkzee	height	1.93 m
+Bayern Munich	has player	Jerome Boateng
+Jerome Boateng	position	defender
+Jerome Boateng	goals	4
+Jerome Boateng	caps	209
+Jerome Boateng	date of birth	1988-09-03
+Jerome Boateng	jersey	17
+Jerome Boateng	height	1.92 m
+Bayern Munich	has player	Leon Goretzka
+Leon Goretzka	position	midfielder
+Leon Goretzka	goals	15
+Leon Goretzka	caps	63
+Leon Goretzka	date of birth	1995-02-06
+Leon Goretzka	jersey	18
+Leon Goretzka	height	1.89 m
+Bayern Munich	has player	Alphonso Davies
+Alphonso Davies	position	defender
+Alphonso Davies	goals	4
+Alphonso Davies	caps	39
+Alphonso Davies	date of birth	2000-11-02
+Alphonso Davies	jersey	19
+Alphonso Davies	height	1.81 m
+Bayern Munich	has player	Lucas Hernandez
+Lucas Hernandez	position	defender
+Lucas Hernandez	goals	0
+Lucas Hernandez	caps	26
+Lucas Hernandez	date of birth	1996-02-14
+Lucas Hernandez	jersey	21
+Lucas Hernandez	height	1.82 m
+Bayern Munich	has player	Corentin Tolisso
+Corentin Tolisso	position	midfielder
+Corentin Tolisso	goals	8
+Corentin Tolisso	caps	47
+Corentin Tolisso	date of birth	1994-08-03
+Corentin Tolisso	jersey	24
+Corentin Tolisso	height	1.81 m
+Bayern Munich	has player	Thomas Muller
+Thomas Muller	position	forward
+Thomas Muller	goals	124
+Thomas Muller	caps	361
+Thomas Muller	date of birth	1989-09-13
+Thomas Muller	jersey	25
+Thomas Muller	height	1.86 m
+Bayern Munich	has player	David Alaba
+David Alaba	position	defender
+David Alaba	goals	21
+David Alaba	caps	258
+David Alaba	date of birth	1992-06-24
+David Alaba	jersey	27
+David Alaba	height	1.80 m
+Bayern Munich	has player	Kingsley Coman
+Kingsley Coman	position	forward
+Kingsley Coman	goals	15
+Kingsley Coman	caps	73
+Kingsley Coman	date of birth	1996-06-13
+Kingsley Coman	jersey	29
+Kingsley Coman	height	1.79 m
+Bayern Munich	has player	Jamal Musiala
+Jamal Musiala	position	midfielder
+Jamal Musiala	goals	3
+Jamal Musiala	caps	8
+Jamal Musiala	date of birth	2003-02-26
+Jamal Musiala	jersey	42
+Jamal Musiala	height	1.83 m

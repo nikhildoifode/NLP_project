@@ -1,0 +1,123 @@
+FC. Porto	ground	Estádio do Dragão
+Estádio do Dragão	capacity	50,033
+FC. Porto	chairman	Jorge Nuno Pinto da Costa
+FC. Porto	coach	Sérgio Conceição
+FC. Porto	has player	Agustin Marchesin
+Agustin Marchesin	position	goalkeeper
+Agustin Marchesin	goals	0
+Agustin Marchesin	caps	39
+Agustin Marchesin	date of birth	1988-03-16
+Agustin Marchesin	jersey	1
+Agustin Marchesin	height	1.88 m
+FC. Porto	has player	Pepe
+Pepe	position	defender
+Pepe	goals	4
+Pepe	caps	43
+Pepe	date of birth	1983-02-26
+Pepe	jersey	3
+Pepe	height	1.87 m
+FC. Porto	has player	Diogo Leite
+Diogo Leite	position	defender
+Diogo Leite	goals	1
+Diogo Leite	caps	14
+Diogo Leite	date of birth	1999-01-23
+Diogo Leite	jersey	4
+Diogo Leite	height	1.92 m
+FC. Porto	has player	Ivan Marcano
+Ivan Marcano	position	defender
+Ivan Marcano	goals	5
+Ivan Marcano	caps	23
+Ivan Marcano	date of birth	1987-06-23
+Ivan Marcano	jersey	5
+Ivan Marcano	height	1.89 m
+FC. Porto	has player	Luis Diaz
+Luis Diaz	position	forward
+Luis Diaz	goals	8
+Luis Diaz	caps	36
+Luis Diaz	date of birth	1997-01-13
+Luis Diaz	jersey	7
+Luis Diaz	height	1.80 m
+FC. Porto	has player	Mateus Uribe
+Mateus Uribe	position	midfielder
+Mateus Uribe	goals	2
+Mateus Uribe	caps	34
+Mateus Uribe	date of birth	1991-03-21
+Mateus Uribe	jersey	8
+Mateus Uribe	height	1.82 m
+FC. Porto	has player	Mehdi Taremi
+Mehdi Taremi	position	forward
+Mehdi Taremi	goals	3
+Mehdi Taremi	caps	10
+Mehdi Taremi	date of birth	1992-07-18
+Mehdi Taremi	jersey	9
+Mehdi Taremi	height	1.87 m
+FC. Porto	has player	Shoya Nakajima
+Shoya Nakajima	position	midfielder
+Shoya Nakajima	goals	0
+Shoya Nakajima	caps	19
+Shoya Nakajima	date of birth	1994-08-23
+Shoya Nakajima	jersey	10
+Shoya Nakajima	height	1.67 m
+FC. Porto	has player	Moussa Marega
+Moussa Marega	position	forward
+Moussa Marega	goals	47
+Moussa Marega	caps	102
+Moussa Marega	date of birth	1991-04-14
+Moussa Marega	jersey	11
+Moussa Marega	height	1.86 m
+FC. Porto	has player	Zaidu Sanusi
+Zaidu Sanusi	position	defender
+Zaidu Sanusi	goals	2
+Zaidu Sanusi	caps	12
+Zaidu Sanusi	date of birth	1997-06-13
+Zaidu Sanusi	jersey	12
+Zaidu Sanusi	height	1.82 m
+FC. Porto	has player	Jesus Corona
+Jesus Corona	position	midfielder
+Jesus Corona	goals	23
+Jesus Corona	caps	160
+Jesus Corona	date of birth	1993-01-06
+Jesus Corona	jersey	17
+Jesus Corona	height	1.74 m
+FC. Porto	has player	Wilson Manafa
+Wilson Manafa	position	defender
+Wilson Manafa	goals	2
+Wilson Manafa	caps	41
+Wilson Manafa	date of birth	1994-07-23
+Wilson Manafa	jersey	18
+Wilson Manafa	height	1.74 m
+FC. Porto	has player	Chancel Mbemba
+Chancel Mbemba	position	defender
+Chancel Mbemba	goals	3
+Chancel Mbemba	caps	36
+Chancel Mbemba	date of birth	1994-08-08
+Chancel Mbemba	jersey	19
+Chancel Mbemba	height	1.82 m
+FC. Porto	has player	Romario Baro
+Romario Baro	position	midfielder
+Romario Baro	goals	0
+Romario Baro	caps	9
+Romario Baro	date of birth	2000-01-25
+Romario Baro	jersey	21
+Romario Baro	height	1.80 m
+FC. Porto	has player	Otavio
+Otavio	position	midfielder
+Otavio	goals	10
+Otavio	caps	102
+Otavio	date of birth	1995-02-09
+Otavio	jersey	25
+Otavio	height	1.72 m
+FC. Porto	has player	Sergio Oliveira
+Sergio Oliveira	position	midfielder
+Sergio Oliveira	goals	14
+Sergio Oliveira	caps	64
+Sergio Oliveira	date of birth	1992-06-02
+Sergio Oliveira	jersey	27
+Sergio Oliveira	height	1.81 m
+FC. Porto	has player	Fabio Vieira
+Fabio Vieira	position	midfielder
+Fabio Vieira	goals	2
+Fabio Vieira	caps	15
+Fabio Vieira	date of birth	2000-05-30
+Fabio Vieira	jersey	50
+Fabio Vieira	height	1.70 m

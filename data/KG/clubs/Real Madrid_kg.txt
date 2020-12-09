@@ -1,0 +1,4 @@
+Real Madrid	ground	Estadio Santiago BernabéuEstadio Alfredo Di Stéfano
+Estadio Santiago BernabéuEstadio Alfredo Di Stéfano	capacity	81,044
+Real Madrid	chairman	Florentino Pérez
+Real Madrid	coach	Zinedine Zidane

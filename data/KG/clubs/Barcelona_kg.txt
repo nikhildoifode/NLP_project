@@ -1,0 +1,165 @@
+Barcelona	ground	Camp Nou
+Camp Nou	capacity	99,354
+Barcelona	chairman	Carles Tusquets (interim)
+Barcelona	coach	Ronald Koeman
+Barcelona	has player	Marc-Andre ter Stegen
+Marc-Andre ter Stegen	position	goalkeeper
+Marc-Andre ter Stegen	goals	0
+Marc-Andre ter Stegen	caps	155
+Marc-Andre ter Stegen	date of birth	1992-04-30
+Marc-Andre ter Stegen	jersey	1
+Marc-Andre ter Stegen	height	1.87 m
+Barcelona	has player	Sergino Dest
+Sergino Dest	position	defender
+Sergino Dest	goals	0
+Sergino Dest	caps	7
+Sergino Dest	date of birth	2000-11-03
+Sergino Dest	jersey	2
+Sergino Dest	height	173 cm
+Barcelona	has player	Gerard Pique
+Gerard Pique	position	defender
+Gerard Pique	goals	28
+Gerard Pique	caps	354
+Gerard Pique	date of birth	1987-02-02
+Gerard Pique	jersey	3
+Gerard Pique	height	1.94 m
+Barcelona	has player	Ronald Araujo
+Ronald Araujo	position	defender
+Ronald Araujo	goals	0
+Ronald Araujo	caps	8
+Ronald Araujo	date of birth	1999-03-07
+Ronald Araujo	jersey	4
+Ronald Araujo	height	1.91 m
+Barcelona	has player	Sergio Busquets
+Sergio Busquets	position	midfielder
+Sergio Busquets	goals	9
+Sergio Busquets	caps	388
+Sergio Busquets	date of birth	1988-07-16
+Sergio Busquets	jersey	5
+Sergio Busquets	height	1.89 m
+Barcelona	has player	Carles Alena
+Carles Alena	position	midfielder
+Carles Alena	goals	2
+Carles Alena	caps	25
+Carles Alena	date of birth	1998-01-05
+Carles Alena	jersey	6
+Carles Alena	height	1.80 m
+Barcelona	has player	Antoine Griezmann
+Antoine Griezmann	position	forward
+Antoine Griezmann	goals	12
+Antoine Griezmann	caps	45
+Antoine Griezmann	date of birth	1991-03-21
+Antoine Griezmann	jersey	7
+Antoine Griezmann	height	1.76 m
+Barcelona	has player	Miralem Pjanic
+Miralem Pjanic	position	midfielder
+Miralem Pjanic	goals	0
+Miralem Pjanic	caps	6
+Miralem Pjanic	date of birth	1990-04-02
+Miralem Pjanic	jersey	8
+Miralem Pjanic	height	1.78 m
+Barcelona	has player	Martin Braithwaite
+Martin Braithwaite	position	forward
+Martin Braithwaite	goals	2
+Martin Braithwaite	caps	18
+Martin Braithwaite	date of birth	1991-06-05
+Martin Braithwaite	jersey	9
+Martin Braithwaite	height	1.77 m
+Barcelona	has player	Lionel Messi
+Lionel Messi	position	forward
+Lionel Messi	goals	448
+Lionel Messi	caps	495
+Lionel Messi	date of birth	1987-06-24
+Lionel Messi	jersey	10
+Lionel Messi	height	1.70 m
+Barcelona	has player	Ousmane Dembele
+Ousmane Dembele	position	forward
+Ousmane Dembele	goals	13
+Ousmane Dembele	caps	59
+Ousmane Dembele	date of birth	1997-05-15
+Ousmane Dembele	jersey	11
+Ousmane Dembele	height	1.78 m
+Barcelona	has player	Riqui Puig
+Riqui Puig	position	midfielder
+Riqui Puig	goals	0
+Riqui Puig	caps	14
+Riqui Puig	date of birth	1999-08-13
+Riqui Puig	jersey	12
+Riqui Puig	height	1.69 m
+Barcelona	has player	Neto
+Neto	position	goalkeeper
+Neto	goals	0
+Neto	caps	8
+Neto	date of birth	1989-07-19
+Neto	jersey	13
+Neto	height	1.90 m
+Barcelona	has player	Philippe Coutinho
+Philippe Coutinho	position	midfielder
+Philippe Coutinho	goals	15
+Philippe Coutinho	caps	60
+Philippe Coutinho	date of birth	1992-06-12
+Philippe Coutinho	jersey	14
+Philippe Coutinho	height	1.72 m
+Barcelona	has player	Clement Lenglet
+Clement Lenglet	position	defender
+Clement Lenglet	goals	3
+Clement Lenglet	caps	60
+Clement Lenglet	date of birth	1995-06-17
+Clement Lenglet	jersey	15
+Clement Lenglet	height	1.86 m
+Barcelona	has player	Pedri
+Pedri	position	midfielder
+Pedri	goals	1
+Pedri	caps	10
+Pedri	date of birth	2002-11-25
+Pedri	jersey	16
+Pedri	height	1.75 m
+Barcelona	has player	Francisco Trincao
+Francisco Trincao	position	forward
+Francisco Trincao	goals	0
+Francisco Trincao	caps	10
+Francisco Trincao	date of birth	1999-12-29
+Francisco Trincao	jersey	17
+Francisco Trincao	height	1.83 m
+Barcelona	has player	Jordi Alba
+Jordi Alba	position	defender
+Jordi Alba	goals	10
+Jordi Alba	caps	233
+Jordi Alba	date of birth	1989-03-21
+Jordi Alba	jersey	18
+Jordi Alba	height	1.70 m
+Barcelona	has player	Sergi Roberto
+Sergi Roberto	position	defender
+Sergi Roberto	goals	3
+Sergi Roberto	caps	191
+Sergi Roberto	date of birth	1992-02-07
+Sergi Roberto	jersey	20
+Sergi Roberto	height	1.78 m
+Barcelona	has player	Frenkie de Jong
+Frenkie de Jong	position	midfielder
+Frenkie de Jong	goals	2
+Frenkie de Jong	caps	39
+Frenkie de Jong	date of birth	1997-05-12
+Frenkie de Jong	jersey	21
+Frenkie de Jong	height	1.80 m
+Barcelona	has player	Ansu Fati
+Ansu Fati	position	forward
+Ansu Fati	goals	11
+Ansu Fati	caps	31
+Ansu Fati	date of birth	2002-10-31
+Ansu Fati	jersey	22
+Ansu Fati	height	1.78 m
+Barcelona	has player	Samuel Umtiti
+Samuel Umtiti	position	defender
+Samuel Umtiti	goals	2
+Samuel Umtiti	caps	77
+Samuel Umtiti	date of birth	1993-11-14
+Samuel Umtiti	jersey	23
+Samuel Umtiti	height	1.82 m
+Barcelona	has player	Junior Firpo
+Junior Firpo	position	defender
+Junior Firpo	goals	1
+Junior Firpo	caps	18
+Junior Firpo	date of birth	1996-08-22
+Junior Firpo	jersey	24
+Junior Firpo	height	1.84 m

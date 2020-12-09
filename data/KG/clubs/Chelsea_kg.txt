@@ -1,0 +1,179 @@
+Chelsea	ground	Stamford Bridge
+Stamford Bridge	capacity	40,834
+Chelsea	chairman	Bruce Buck
+Chelsea	coach	Frank Lampard
+Chelsea	has player	Kepa Arrizabalaga
+Kepa Arrizabalaga	position	goalkeeper
+Kepa Arrizabalaga	goals	0
+Kepa Arrizabalaga	caps	72
+Kepa Arrizabalaga	date of birth	1994-10-03
+Kepa Arrizabalaga	jersey	1
+Kepa Arrizabalaga	height	1.86 m
+Chelsea	has player	Antonio Rudiger
+Antonio Rudiger	position	defender
+Antonio Rudiger	goals	5
+Antonio Rudiger	caps	81
+Antonio Rudiger	date of birth	1993-03-03
+Antonio Rudiger	jersey	2
+Antonio Rudiger	height	1.90 m
+Chelsea	has player	Marcos Alonso
+Marcos Alonso	position	defender
+Marcos Alonso	goals	19
+Marcos Alonso	caps	116
+Marcos Alonso	date of birth	1990-12-28
+Marcos Alonso	jersey	3
+Marcos Alonso	height	1.88 m
+Chelsea	has player	Andreas Christensen
+Andreas Christensen	position	defender
+Andreas Christensen	goals	0
+Andreas Christensen	caps	61
+Andreas Christensen	date of birth	1996-04-10
+Andreas Christensen	jersey	4
+Andreas Christensen	height	1.88 m
+Chelsea	has player	Jorginho
+Jorginho	position	midfielder
+Jorginho	goals	9
+Jorginho	caps	75
+Jorginho	date of birth	1991-12-20
+Jorginho	jersey	5
+Jorginho	height	1.80 m
+Chelsea	has player	Thiago Silva
+Thiago Silva	position	defender
+Thiago Silva	goals	1
+Thiago Silva	caps	7
+Thiago Silva	date of birth	1984-09-22
+Thiago Silva	jersey	6
+Thiago Silva	height	1.83 m
+Chelsea	has player	N'Golo Kante
+N'Golo Kante	position	midfielder
+N'Golo Kante	goals	9
+N'Golo Kante	caps	138
+N'Golo Kante	date of birth	1991-03-29
+N'Golo Kante	jersey	7
+N'Golo Kante	height	1.68 m
+Chelsea	has player	Tammy Abraham
+Tammy Abraham	position	forward
+Tammy Abraham	goals	18
+Tammy Abraham	caps	46
+Tammy Abraham	date of birth	1997-10-02
+Tammy Abraham	jersey	9
+Tammy Abraham	height	1.90 m
+Chelsea	has player	Christian Pulisic
+Christian Pulisic	position	midfielder
+Christian Pulisic	goals	10
+Christian Pulisic	caps	30
+Christian Pulisic	date of birth	1998-09-18
+Christian Pulisic	jersey	10
+Christian Pulisic	height	1.73 m
+Chelsea	has player	Timo Werner
+Timo Werner	position	forward
+Timo Werner	goals	4
+Timo Werner	caps	11
+Timo Werner	date of birth	1996-03-06
+Timo Werner	jersey	11
+Timo Werner	height	1.80 m
+Chelsea	has player	Willy Caballero
+Willy Caballero	position	goalkeeper
+Willy Caballero	goals	0
+Willy Caballero	caps	11
+Willy Caballero	date of birth	1981-09-28
+Willy Caballero	jersey	13
+Willy Caballero	height	1.86 m
+Chelsea	has player	Fikayo Tomori
+Fikayo Tomori	position	defender
+Fikayo Tomori	goals	1
+Fikayo Tomori	caps	17
+Fikayo Tomori	date of birth	1997-12-19
+Fikayo Tomori	jersey	14
+Fikayo Tomori	height	1.85 m
+Chelsea	has player	Kurt Zouma
+Kurt Zouma	position	defender
+Kurt Zouma	goals	5
+Kurt Zouma	caps	85
+Kurt Zouma	date of birth	1994-10-27
+Kurt Zouma	jersey	15
+Kurt Zouma	height	1.90 m
+Chelsea	has player	Edouard Mendy
+Edouard Mendy	position	goalkeeper
+Edouard Mendy	goals	0
+Edouard Mendy	caps	7
+Edouard Mendy	date of birth	1992-03-01
+Edouard Mendy	jersey	16
+Edouard Mendy	height	1.97 m
+Chelsea	has player	Mateo Kovacic
+Mateo Kovacic	position	midfielder
+Mateo Kovacic	goals	1
+Mateo Kovacic	caps	38
+Mateo Kovacic	date of birth	1994-05-06
+Mateo Kovacic	jersey	17
+Mateo Kovacic	height	1.78 m
+Chelsea	has player	Olivier Giroud
+Olivier Giroud	position	forward
+Olivier Giroud	goals	14
+Olivier Giroud	caps	64
+Olivier Giroud	date of birth	1986-09-30
+Olivier Giroud	jersey	18
+Olivier Giroud	height	1.93 m
+Chelsea	has player	Mason Mount
+Mason Mount	position	midfielder
+Mason Mount	goals	8
+Mason Mount	caps	47
+Mason Mount	date of birth	1999-01-10
+Mason Mount	jersey	19
+Mason Mount	height	1.78 m
+Chelsea	has player	Callum Hudson-Odoi
+Callum Hudson-Odoi	position	midfielder
+Callum Hudson-Odoi	goals	13
+Callum Hudson-Odoi	caps	32
+Callum Hudson-Odoi	date of birth	2000-11-07
+Callum Hudson-Odoi	jersey	20
+Callum Hudson-Odoi	height	1.82 m
+Chelsea	has player	Ben Chilwell
+Ben Chilwell	position	defender
+Ben Chilwell	goals	2
+Ben Chilwell	caps	8
+Ben Chilwell	date of birth	1996-12-21
+Ben Chilwell	jersey	21
+Ben Chilwell	height	1.78 m
+Chelsea	has player	Hakim Ziyech
+Hakim Ziyech	position	midfielder
+Hakim Ziyech	goals	1
+Hakim Ziyech	caps	7
+Hakim Ziyech	date of birth	1993-03-19
+Hakim Ziyech	jersey	22
+Hakim Ziyech	height	1.81 m
+Chelsea	has player	Billy Gilmour
+Billy Gilmour	position	midfielder
+Billy Gilmour	goals	0
+Billy Gilmour	caps	6
+Billy Gilmour	date of birth	2001-06-11
+Billy Gilmour	jersey	23
+Billy Gilmour	height	1.70 m
+Chelsea	has player	Reece James
+Reece James	position	defender
+Reece James	goals	1
+Reece James	caps	34
+Reece James	date of birth	1999-12-08
+Reece James	jersey	24
+Reece James	height	1.82 m
+Chelsea	has player	Cesar Azpilicueta
+Cesar Azpilicueta	position	defender
+Cesar Azpilicueta	goals	8
+Cesar Azpilicueta	caps	276
+Cesar Azpilicueta	date of birth	1989-08-28
+Cesar Azpilicueta	jersey	28
+Cesar Azpilicueta	height	1.78 m
+Chelsea	has player	Kai Havertz
+Kai Havertz	position	midfielder
+Kai Havertz	goals	1
+Kai Havertz	caps	9
+Kai Havertz	date of birth	1999-06-11
+Kai Havertz	jersey	29
+Kai Havertz	height	1.89 m
+Chelsea	has player	Emerson
+Emerson	position	defender
+Emerson	goals	0
+Emerson	caps	31
+Emerson	date of birth	1994-08-03
+Emerson	jersey	33
+Emerson	height	1.76 m

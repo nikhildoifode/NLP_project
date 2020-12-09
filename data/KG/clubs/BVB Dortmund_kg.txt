@@ -1,0 +1,158 @@
+BVB Dortmund	ground	Westfalenstadion
+Westfalenstadion	capacity	81,365
+BVB Dortmund	chairman	Hans-Joachim Watzke (CEO)
+BVB Dortmund	coach	Lucien Favre[2]
+BVB Dortmund	has player	Roman Burki
+Roman Burki	position	goalkeeper
+Roman Burki	goals	0
+Roman Burki	caps	162
+Roman Burki	date of birth	1990-11-14
+Roman Burki	jersey	1
+Roman Burki	height	1.88 m
+BVB Dortmund	has player	Mateu Morey
+Mateu Morey	position	defender
+Mateu Morey	goals	0
+Mateu Morey	caps	6
+Mateu Morey	date of birth	2000-03-02
+Mateu Morey	jersey	2
+Mateu Morey	height	
+BVB Dortmund	has player	Dan-Axel Zagadou
+Dan-Axel Zagadou	position	defender
+Dan-Axel Zagadou	goals	4
+Dan-Axel Zagadou	caps	43
+Dan-Axel Zagadou	date of birth	1999-06-03
+Dan-Axel Zagadou	jersey	5
+Dan-Axel Zagadou	height	1.96 m
+BVB Dortmund	has player	Thomas Delaney
+Thomas Delaney	position	midfielder
+Thomas Delaney	goals	3
+Thomas Delaney	caps	47
+Thomas Delaney	date of birth	1991-09-03
+Thomas Delaney	jersey	6
+Thomas Delaney	height	1.82 m
+BVB Dortmund	has player	Jadon Sancho
+Jadon Sancho	position	midfielder
+Jadon Sancho	goals	30
+Jadon Sancho	caps	85
+Jadon Sancho	date of birth	2000-03-25
+Jadon Sancho	jersey	7
+Jadon Sancho	height	1.80 m
+BVB Dortmund	has player	Mahmoud Dahoud
+Mahmoud Dahoud	position	midfielder
+Mahmoud Dahoud	goals	1
+Mahmoud Dahoud	caps	53
+Mahmoud Dahoud	date of birth	1996-01-01
+Mahmoud Dahoud	jersey	8
+Mahmoud Dahoud	height	1.77 m
+BVB Dortmund	has player	Erling Haaland
+Erling Haaland	position	forward
+Erling Haaland	goals	23
+Erling Haaland	caps	23
+Erling Haaland	date of birth	2000-07-21
+Erling Haaland	jersey	9
+Erling Haaland	height	1.94 m
+BVB Dortmund	has player	Thorgan Hazard
+Thorgan Hazard	position	forward
+Thorgan Hazard	goals	8
+Thorgan Hazard	caps	38
+Thorgan Hazard	date of birth	1993-03-29
+Thorgan Hazard	jersey	10
+Thorgan Hazard	height	1.75 m
+BVB Dortmund	has player	Marco Reus
+Marco Reus	position	forward
+Marco Reus	goals	93
+Marco Reus	caps	191
+Marco Reus	date of birth	1989-05-31
+Marco Reus	jersey	11
+Marco Reus	height	1.80 m
+BVB Dortmund	has player	Raphael Guerreiro
+Raphael Guerreiro	position	defender
+Raphael Guerreiro	goals	18
+Raphael Guerreiro	caps	92
+Raphael Guerreiro	date of birth	1993-12-22
+Raphael Guerreiro	jersey	13
+Raphael Guerreiro	height	1.70 m
+BVB Dortmund	has player	Nico Schulz
+Nico Schulz	position	defender
+Nico Schulz	goals	1
+Nico Schulz	caps	13
+Nico Schulz	date of birth	1993-04-01
+Nico Schulz	jersey	14
+Nico Schulz	height	1.81 m
+BVB Dortmund	has player	Mats Hummels
+Mats Hummels	position	defender
+Mats Hummels	goals	4
+Mats Hummels	caps	41
+Mats Hummels	date of birth	1988-12-16
+Mats Hummels	jersey	15
+Mats Hummels	height	1.91 m
+BVB Dortmund	has player	Manuel Akanji
+Manuel Akanji	position	defender
+Manuel Akanji	goals	2
+Manuel Akanji	caps	72
+Manuel Akanji	date of birth	1995-07-19
+Manuel Akanji	jersey	16
+Manuel Akanji	height	1.86 m
+BVB Dortmund	has player	Julian Brandt
+Julian Brandt	position	midfielder
+Julian Brandt	goals	3
+Julian Brandt	caps	41
+Julian Brandt	date of birth	1996-05-02
+Julian Brandt	jersey	19
+Julian Brandt	height	1.85 m
+BVB Dortmund	has player	Jude Bellingham
+Jude Bellingham	position	midfielder
+Jude Bellingham	goals	0
+Jude Bellingham	caps	8
+Jude Bellingham	date of birth	2003-06-29
+Jude Bellingham	jersey	22
+Jude Bellingham	height	1.86 m
+BVB Dortmund	has player	Thomas Meunier
+Thomas Meunier	position	defender
+Thomas Meunier	goals	0
+Thomas Meunier	caps	8
+Thomas Meunier	date of birth	1991-09-12
+Thomas Meunier	jersey	24
+Thomas Meunier	height	1.91 m
+BVB Dortmund	has player	Lukasz Piszczek
+Lukasz Piszczek	position	defender
+Lukasz Piszczek	goals	16
+Lukasz Piszczek	caps	256
+Lukasz Piszczek	date of birth	1985-06-03
+Lukasz Piszczek	jersey	26
+Lukasz Piszczek	height	1.84 m
+BVB Dortmund	has player	Axel Witsel
+Axel Witsel	position	midfielder
+Axel Witsel	goals	8
+Axel Witsel	caps	69
+Axel Witsel	date of birth	1989-01-12
+Axel Witsel	jersey	28
+Axel Witsel	height	1.86 m
+BVB Dortmund	has player	Marcel Schmelzer
+Marcel Schmelzer	position	defender
+Marcel Schmelzer	goals	3
+Marcel Schmelzer	caps	258
+Marcel Schmelzer	date of birth	1988-01-22
+Marcel Schmelzer	jersey	29
+Marcel Schmelzer	height	1.80 m
+BVB Dortmund	has player	Felix Passlack
+Felix Passlack	position	defender
+Felix Passlack	goals	1
+Felix Passlack	caps	19
+Felix Passlack	date of birth	1998-05-29
+Felix Passlack	jersey	30
+Felix Passlack	height	1.70 m
+BVB Dortmund	has player	Giovanni Reyna
+Giovanni Reyna	position	midfielder
+Giovanni Reyna	goals	2
+Giovanni Reyna	caps	24
+Giovanni Reyna	date of birth	2002-11-13
+Giovanni Reyna	jersey	32
+Giovanni Reyna	height	1.85 m
+BVB Dortmund	has player	Marwin Hitz
+Marwin Hitz	position	goalkeeper
+Marwin Hitz	goals	0
+Marwin Hitz	caps	8
+Marwin Hitz	date of birth	1987-09-18
+Marwin Hitz	jersey	35
+Marwin Hitz	height	1.93 m
