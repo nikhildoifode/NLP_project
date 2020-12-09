@@ -51,10 +51,16 @@ python utils/generate_entities_soccer.py
 
 Pre-processing is not required if you just want to train/test the model at this point. To train the system run the following command:
 
-For Soccer Domain:
+For running train and test with GPU:
 
 ```
 python -u ./train_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --gpu 1 --epochs 150 --data_dir preproc_files/soccer/
+```
+
+For running train and test without GPU:
+
+```
+python -u ./train_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --epochs 150 --data_dir preproc_files/soccer/
 ```
 
 In each epochs the best trained model so far will be saved inside '/models' directory with a file name 'Sentient_model2.bin'. The saved model can later be used for testing purpose on new data.

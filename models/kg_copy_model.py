@@ -112,7 +112,6 @@ class KGSentient(nn.Module):
                 all_decoder_outputs_vocab[t] = decoder_vocab
                 decoder_input = out_batch[t].long() # Next input is current target
         else:
-            print ('Not TF..')
             for t in range(max_target_length):
                 decoder_vocab, decoder_hidden = self.decoder(decoder_input, decoder_hidden, encoder_outputs, input_mask)
                 all_decoder_outputs_vocab[t] = decoder_vocab
@@ -147,7 +146,6 @@ class KGSentient(nn.Module):
         self.encoder_optimizer.step()
         self.decoder_optimizer.step()
         self.loss += loss.item()
-        print("loss_Vocab:", loss_Vocab.data, "sentiental_loss:", sentiental_loss.data, "loss:", loss.data, "self.loss:", self.loss)
 
 
     def evaluate_batch(self, input_batch, input_chunk, out_batch, input_mask, target_mask, kb, kb_mask, sentient_orig):
