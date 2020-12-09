@@ -2,107 +2,139 @@ Croatia	coach	Zlatko Dalić
 Croatia	captain	Luka Modrić
 Croatia	world cup appearance	5 (first in 1998)
 Croatia	world cup Runners-up	2018
+Croatia	goalkeeper	Dominik Livakovic
+Croatia	has player	Dominik Livakovic
+Dominik Livakovic	position	goalkeeper
+Dominik Livakovic	goals	0
+Dominik Livakovic	caps	16
+Dominik Livakovic	age	25
+Dominik Livakovic	jersey	1
 Croatia	goalkeeper	Lovre Kalinic
 Croatia	has player	Lovre Kalinic
 Lovre Kalinic	position	goalkeeper
 Lovre Kalinic	goals	0
-Lovre Kalinic	caps	18
-Lovre Kalinic	age	29
-Lovre Kalinic	jersey	12
-Croatia	defender	Domagoj Vida
-Croatia	has player	Domagoj Vida
-Domagoj Vida	position	defender
-Domagoj Vida	goals	4
-Domagoj Vida	caps	75
-Domagoj Vida	age	30
-Domagoj Vida	jersey	21
-Croatia	defender	Dejan Lovren
-Croatia	has player	Dejan Lovren
-Dejan Lovren	position	defender
-Dejan Lovren	goals	2
-Dejan Lovren	caps	53
-Dejan Lovren	age	30
-Dejan Lovren	jersey	6
-Croatia	defender	Tin Jedvaj
-Croatia	has player	Tin Jedvaj
-Tin Jedvaj	position	defender
-Tin Jedvaj	goals	2
-Tin Jedvaj	caps	20
-Tin Jedvaj	age	23
-Tin Jedvaj	jersey	16
+Lovre Kalinic	caps	19
+Lovre Kalinic	age	30
+Lovre Kalinic	jersey	—
 Croatia	defender	Borna Barisic
 Croatia	has player	Borna Barisic
 Borna Barisic	position	defender
 Borna Barisic	goals	1
-Borna Barisic	caps	7
-Borna Barisic	age	26
+Borna Barisic	caps	15
+Borna Barisic	age	28
 Borna Barisic	jersey	3
-Croatia	midfielder	Luka Modric 
-Croatia	has player	Luka Modric 
-Luka Modric 	position	midfielder
-Luka Modric 	goals	14
-Luka Modric 	caps	122
-Luka Modric 	age	33
-Luka Modric 	jersey	10
+Croatia	defender	Dejan Lovren 
+Croatia	has player	Dejan Lovren 
+Dejan Lovren 	position	defender
+Dejan Lovren 	goals	4
+Dejan Lovren 	caps	62
+Dejan Lovren 	age	31
+Dejan Lovren 	jersey	6
+Croatia	defender	Josip Juranovic
+Croatia	has player	Josip Juranovic
+Josip Juranovic	position	defender
+Josip Juranovic	goals	0
+Josip Juranovic	caps	5
+Josip Juranovic	age	25
+Josip Juranovic	jersey	21
+Croatia	defender	Dario Melnjak
+Croatia	has player	Dario Melnjak
+Dario Melnjak	position	defender
+Dario Melnjak	goals	0
+Dario Melnjak	caps	7
+Dario Melnjak	age	28
+Dario Melnjak	jersey	22
 Croatia	midfielder	Mateo Kovacic
 Croatia	has player	Mateo Kovacic
 Mateo Kovacic	position	midfielder
-Mateo Kovacic	goals	1
-Mateo Kovacic	caps	52
-Mateo Kovacic	age	25
+Mateo Kovacic	goals	3
+Mateo Kovacic	caps	63
+Mateo Kovacic	age	26
 Mateo Kovacic	jersey	8
-Croatia	midfielder	Marcelo Brozovic
-Croatia	has player	Marcelo Brozovic
-Marcelo Brozovic	position	midfielder
-Marcelo Brozovic	goals	6
-Marcelo Brozovic	caps	47
-Marcelo Brozovic	age	26
-Marcelo Brozovic	jersey	11
+Croatia	midfielder	Luka Modric 
+Croatia	has player	Luka Modric 
+Luka Modric 	position	midfielder
+Luka Modric 	goals	16
+Luka Modric 	caps	133
+Luka Modric 	age	35
+Luka Modric 	jersey	10
+Croatia	midfielder	Nikola Vlasic
+Croatia	has player	Nikola Vlasic
+Nikola Vlasic	position	midfielder
+Nikola Vlasic	goals	5
+Nikola Vlasic	caps	17
+Nikola Vlasic	age	23
+Nikola Vlasic	jersey	13
+Croatia	midfielder	Mario Pasalic
+Croatia	has player	Mario Pasalic
+Mario Pasalic	position	midfielder
+Mario Pasalic	goals	2
+Mario Pasalic	caps	20
+Mario Pasalic	age	25
+Mario Pasalic	jersey	15
+Croatia	midfielder	Marko Rog
+Croatia	has player	Marko Rog
+Marko Rog	position	midfielder
+Marko Rog	goals	0
+Marko Rog	caps	21
+Marko Rog	age	25
+Marko Rog	jersey	17
 Croatia	midfielder	Milan Badelj
 Croatia	has player	Milan Badelj
 Milan Badelj	position	midfielder
 Milan Badelj	goals	2
-Milan Badelj	caps	47
-Milan Badelj	age	30
+Milan Badelj	caps	53
+Milan Badelj	age	31
 Milan Badelj	jersey	19
-Croatia	midfielder	Mario Pasalic
-Croatia	has player	Mario Pasalic
-Mario Pasalic	position	midfielder
-Mario Pasalic	goals	0
-Mario Pasalic	caps	10
-Mario Pasalic	age	24
-Mario Pasalic	jersey	15
-Croatia	forward	Ivan Perisic
-Croatia	has player	Ivan Perisic
-Ivan Perisic	position	forward
-Ivan Perisic	goals	23
-Ivan Perisic	caps	82
-Ivan Perisic	age	30
-Ivan Perisic	jersey	4
-Croatia	forward	Andrej Kramaric
-Croatia	has player	Andrej Kramaric
-Andrej Kramaric	position	forward
-Andrej Kramaric	goals	13
-Andrej Kramaric	caps	46
-Andrej Kramaric	age	28
-Andrej Kramaric	jersey	9
-Croatia	forward	Alen Halilovic
-Croatia	has player	Alen Halilovic
-Alen Halilovic	position	forward
-Alen Halilovic	goals	0
-Alen Halilovic	caps	10
-Alen Halilovic	age	23
-Alen Halilovic	jersey	17
+Croatia	forward	Ivan Perisic 
+Croatia	has player	Ivan Perisic 
+Ivan Perisic 	position	forward
+Ivan Perisic 	goals	26
+Ivan Perisic 	caps	96
+Ivan Perisic 	age	31
+Ivan Perisic 	jersey	4
 Croatia	forward	Josip Brekalo
 Croatia	has player	Josip Brekalo
 Josip Brekalo	position	forward
-Josip Brekalo	goals	0
-Josip Brekalo	caps	6
-Josip Brekalo	age	21
+Josip Brekalo	goals	3
+Josip Brekalo	caps	19
+Josip Brekalo	age	22
 Josip Brekalo	jersey	7
+Croatia	forward	Mislav Orsic
+Croatia	has player	Mislav Orsic
+Mislav Orsic	position	forward
+Mislav Orsic	goals	0
+Mislav Orsic	caps	5
+Mislav Orsic	age	27
+Mislav Orsic	jersey	18
+Croatia	forward	Bruno Petkovic
+Croatia	has player	Bruno Petkovic
+Bruno Petkovic	position	forward
+Bruno Petkovic	goals	6
+Bruno Petkovic	caps	13
+Bruno Petkovic	age	26
+Bruno Petkovic	jersey	20
+Croatia	defender	Domagoj VidaINJ 
+Croatia	has player	Domagoj VidaINJ 
+Domagoj VidaINJ 	position	defender
+Domagoj VidaINJ 	goals	4
+Domagoj VidaINJ 	caps	84
+Domagoj VidaINJ 	age	31
+Croatia	midfielder	Marcelo Brozovic
+Croatia	has player	Marcelo Brozovic
+Marcelo Brozovic	position	midfielder
+Marcelo Brozovic	goals	6
+Marcelo Brozovic	caps	55
+Marcelo Brozovic	age	28
 Croatia	midfielder	Ivan Rakitic
 Croatia	has player	Ivan Rakitic
 Ivan Rakitic	position	midfielder
 Ivan Rakitic	goals	15
-Ivan Rakitic	caps	104
-Ivan Rakitic	age	31
+Ivan Rakitic	caps	106
+Ivan Rakitic	age	32
+Croatia	forward	Andrej Kramaric
+Croatia	has player	Andrej Kramaric
+Andrej Kramaric	position	forward
+Andrej Kramaric	goals	14
+Andrej Kramaric	caps	50
+Andrej Kramaric	age	29

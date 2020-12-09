@@ -132,7 +132,7 @@ Arsenal	has player	Reiss Nelson
 Reiss Nelson	position	forward
 Reiss Nelson	goals	1
 Reiss Nelson	caps	22
-Reiss Nelson	date of birth	1999-12-10
+Reiss Nelson	date of birth	1999-12-09
 Reiss Nelson	jersey	24
 Reiss Nelson	height	1.75 m
 Arsenal	has player	Mohamed Elneny

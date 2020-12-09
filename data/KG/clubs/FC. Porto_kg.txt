@@ -82,7 +82,7 @@ Jesus Corona	height	1.74 m
 FC. Porto	has player	Wilson Manafa
 Wilson Manafa	position	defender
 Wilson Manafa	goals	2
-Wilson Manafa	caps	41
+Wilson Manafa	caps	50
 Wilson Manafa	date of birth	1994-07-23
 Wilson Manafa	jersey	18
 Wilson Manafa	height	1.74 m
@@ -102,7 +102,7 @@ Romario Baro	jersey	21
 Romario Baro	height	1.80 m
 FC. Porto	has player	Otavio
 Otavio	position	midfielder
-Otavio	goals	10
+Otavio	goals	11
 Otavio	caps	102
 Otavio	date of birth	1995-02-09
 Otavio	jersey	25

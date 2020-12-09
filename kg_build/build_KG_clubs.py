@@ -62,7 +62,6 @@ def create_KG(players_info,team_name,side_bar):
                 file.write(team_name + "\t" + "has player" + "\t" + name_of_player+"\n")
 
                 # (name_of_player, "position", position)
-                print(map_position, player)
                 file.write(name_of_player + "\t" + "position" + "\t" + map_position[player[1]]+"\n")
 
                 # (name_of_player, "goals", goals)

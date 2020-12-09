@@ -123,8 +123,8 @@ Mason Mount	jersey	19
 Mason Mount	height	1.78 m
 Chelsea	has player	Callum Hudson-Odoi
 Callum Hudson-Odoi	position	midfielder
-Callum Hudson-Odoi	goals	13
-Callum Hudson-Odoi	caps	32
+Callum Hudson-Odoi	goals	2
+Callum Hudson-Odoi	caps	39
 Callum Hudson-Odoi	date of birth	2000-11-07
 Callum Hudson-Odoi	jersey	20
 Callum Hudson-Odoi	height	1.82 m

@@ -1,4 +1,4 @@
-Colombia	coach	Carlos Queiroz
+Colombia	coach	Vacant
 Colombia	captain	Radamel Falcao
 Colombia	world cup appearance	6 (first in 1962)
 Colombia	world cup Quarter-finals	2014
@@ -6,145 +6,119 @@ Colombia	goalkeeper	David Ospina
 Colombia	has player	David Ospina
 David Ospina	position	goalkeeper
 David Ospina	goals	0
-David Ospina	caps	99
-David Ospina	age	30
-David Ospina	jersey	1
+David Ospina	caps	105
+David Ospina	age	32
 Colombia	goalkeeper	Camilo Vargas
 Colombia	has player	Camilo Vargas
 Camilo Vargas	position	goalkeeper
 Camilo Vargas	goals	0
-Camilo Vargas	caps	6
-Camilo Vargas	age	30
-Camilo Vargas	jersey	12
-Colombia	defender	Cristian Zapata
-Colombia	has player	Cristian Zapata
-Cristian Zapata	position	defender
-Cristian Zapata	goals	2
-Cristian Zapata	caps	58
-Cristian Zapata	age	32
-Cristian Zapata	jersey	2
-Colombia	defender	Santiago Arias
-Colombia	has player	Santiago Arias
-Santiago Arias	position	defender
-Santiago Arias	goals	0
-Santiago Arias	caps	52
-Santiago Arias	age	27
-Santiago Arias	jersey	4
+Camilo Vargas	caps	9
+Camilo Vargas	age	31
+Colombia	defender	Jeison Murillo
+Colombia	has player	Jeison Murillo
+Jeison Murillo	position	defender
+Jeison Murillo	goals	1
+Jeison Murillo	caps	32
+Jeison Murillo	age	28
 Colombia	defender	Davinson Sanchez
 Colombia	has player	Davinson Sanchez
 Davinson Sanchez	position	defender
 Davinson Sanchez	goals	0
-Davinson Sanchez	caps	23
-Davinson Sanchez	age	23
-Davinson Sanchez	jersey	23
-Colombia	defender	Yerry Mina
-Colombia	has player	Yerry Mina
-Yerry Mina	position	defender
-Yerry Mina	goals	6
-Yerry Mina	caps	21
-Yerry Mina	age	24
-Yerry Mina	jersey	13
-Colombia	defender	Stefan Medina
-Colombia	has player	Stefan Medina
-Stefan Medina	position	defender
-Stefan Medina	goals	0
-Stefan Medina	caps	16
-Stefan Medina	age	27
-Stefan Medina	jersey	3
+Davinson Sanchez	caps	32
+Davinson Sanchez	age	24
+Colombia	defender	Frank Fabra
+Colombia	has player	Frank Fabra
+Frank Fabra	position	defender
+Frank Fabra	goals	1
+Frank Fabra	caps	22
+Frank Fabra	age	29
+Colombia	defender	Johan Mojica
+Colombia	has player	Johan Mojica
+Johan Mojica	position	defender
+Johan Mojica	goals	1
+Johan Mojica	caps	13
+Johan Mojica	age	28
 Colombia	defender	William Tesillo
 Colombia	has player	William Tesillo
 William Tesillo	position	defender
 William Tesillo	goals	1
-William Tesillo	caps	9
-William Tesillo	age	29
-William Tesillo	jersey	6
+William Tesillo	caps	12
+William Tesillo	age	30
+Colombia	defender	Luis Orejuela
+Colombia	has player	Luis Orejuela
+Luis Orejuela	position	defender
+Luis Orejuela	goals	0
+Luis Orejuela	caps	5
+Luis Orejuela	age	25
 Colombia	midfielder	Juan Cuadrado
 Colombia	has player	Juan Cuadrado
 Juan Cuadrado	position	midfielder
 Juan Cuadrado	goals	8
-Juan Cuadrado	caps	84
-Juan Cuadrado	age	31
-Juan Cuadrado	jersey	11
+Juan Cuadrado	caps	94
+Juan Cuadrado	age	32
 Colombia	midfielder	James Rodriguez 
 Colombia	has player	James Rodriguez 
 James Rodriguez 	position	midfielder
-James Rodriguez 	goals	22
-James Rodriguez 	caps	76
-James Rodriguez 	age	27
-James Rodriguez 	jersey	10
+James Rodriguez 	goals	23
+James Rodriguez 	caps	80
+James Rodriguez 	age	29
 Colombia	midfielder	Edwin Cardona
 Colombia	has player	Edwin Cardona
 Edwin Cardona	position	midfielder
 Edwin Cardona	goals	5
-Edwin Cardona	caps	37
-Edwin Cardona	age	26
-Edwin Cardona	jersey	8
+Edwin Cardona	caps	39
+Edwin Cardona	age	28
 Colombia	midfielder	Wilmar Barrios
 Colombia	has player	Wilmar Barrios
 Wilmar Barrios	position	midfielder
 Wilmar Barrios	goals	0
-Wilmar Barrios	caps	25
-Wilmar Barrios	age	25
-Wilmar Barrios	jersey	5
+Wilmar Barrios	caps	33
+Wilmar Barrios	age	27
 Colombia	midfielder	Mateus Uribe
 Colombia	has player	Mateus Uribe
 Mateus Uribe	position	midfielder
-Mateus Uribe	goals	2
-Mateus Uribe	caps	21
-Mateus Uribe	age	28
-Mateus Uribe	jersey	15
+Mateus Uribe	goals	3
+Mateus Uribe	caps	28
+Mateus Uribe	age	29
 Colombia	midfielder	Jefferson Lerma
 Colombia	has player	Jefferson Lerma
 Jefferson Lerma	position	midfielder
-Jefferson Lerma	goals	0
-Jefferson Lerma	caps	13
-Jefferson Lerma	age	24
-Jefferson Lerma	jersey	16
-Colombia	midfielder	Gustavo Cuellar
-Colombia	has player	Gustavo Cuellar
-Gustavo Cuellar	position	midfielder
-Gustavo Cuellar	goals	1
-Gustavo Cuellar	caps	7
-Gustavo Cuellar	age	26
-Gustavo Cuellar	jersey	18
-Colombia	forward	Radamel Falcao 
-Colombia	has player	Radamel Falcao 
-Radamel Falcao 	position	forward
-Radamel Falcao 	goals	34
-Radamel Falcao 	caps	89
-Radamel Falcao 	age	33
-Radamel Falcao 	jersey	9
+Jefferson Lerma	goals	1
+Jefferson Lerma	caps	23
+Jefferson Lerma	age	26
 Colombia	forward	Luis Muriel
 Colombia	has player	Luis Muriel
 Luis Muriel	position	forward
-Luis Muriel	goals	3
-Luis Muriel	caps	27
-Luis Muriel	age	28
-Luis Muriel	jersey	19
+Luis Muriel	goals	7
+Luis Muriel	caps	36
+Luis Muriel	age	29
 Colombia	forward	Duvan Zapata
 Colombia	has player	Duvan Zapata
 Duvan Zapata	position	forward
-Duvan Zapata	goals	3
-Duvan Zapata	caps	13
-Duvan Zapata	age	28
-Duvan Zapata	jersey	7
-Colombia	forward	Roger Martinez
-Colombia	has player	Roger Martinez
-Roger Martinez	position	forward
-Roger Martinez	goals	2
-Roger Martinez	caps	12
-Roger Martinez	age	25
-Roger Martinez	jersey	20
+Duvan Zapata	goals	4
+Duvan Zapata	caps	20
+Duvan Zapata	age	29
 Colombia	forward	Luis Diaz
 Colombia	has player	Luis Diaz
 Luis Diaz	position	forward
 Luis Diaz	goals	1
-Luis Diaz	caps	8
-Luis Diaz	age	22
-Luis Diaz	jersey	14
-Colombia	forward	Carlos Bacca
-Colombia	has player	Carlos Bacca
-Carlos Bacca	position	forward
-Carlos Bacca	goals	16
-Carlos Bacca	caps	52
-Carlos Bacca	age	32
+Luis Diaz	caps	16
+Luis Diaz	age	23
+Colombia	forward	Alfredo Morelos
+Colombia	has player	Alfredo Morelos
+Alfredo Morelos	position	forward
+Alfredo Morelos	goals	1
+Alfredo Morelos	caps	10
+Alfredo Morelos	age	24
+Colombia	defender	Santiago Arias
+Colombia	has player	Santiago Arias
+Santiago Arias	position	defender
+Santiago Arias	goals	0
+Santiago Arias	caps	54
+Santiago Arias	age	28
+Colombia	forward	Radamel Falcao
+Colombia	has player	Radamel Falcao
+Radamel Falcao	position	forward
+Radamel Falcao	goals	35
+Radamel Falcao	caps	91
+Radamel Falcao	age	34

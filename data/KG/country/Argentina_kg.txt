@@ -7,131 +7,145 @@ Argentina	goalkeeper	Franco Armani
 Argentina	has player	Franco Armani
 Franco Armani	position	goalkeeper
 Franco Armani	goals	0
-Franco Armani	caps	11
-Franco Armani	age	32
+Franco Armani	caps	15
+Franco Armani	age	34
 Franco Armani	jersey	1
+Argentina	goalkeeper	Agustin Marchesin
+Argentina	has player	Agustin Marchesin
+Agustin Marchesin	position	goalkeeper
+Agustin Marchesin	goals	0
+Agustin Marchesin	caps	7
+Agustin Marchesin	age	32
+Agustin Marchesin	jersey	23
 Argentina	defender	Nicolas Otamendi
 Argentina	has player	Nicolas Otamendi
 Nicolas Otamendi	position	defender
 Nicolas Otamendi	goals	4
-Nicolas Otamendi	caps	66
-Nicolas Otamendi	age	31
-Nicolas Otamendi	jersey	17
-Argentina	defender	Ramiro Funes Mori
-Argentina	has player	Ramiro Funes Mori
-Ramiro Funes Mori	position	defender
-Ramiro Funes Mori	goals	2
-Ramiro Funes Mori	caps	26
-Ramiro Funes Mori	age	28
-Ramiro Funes Mori	jersey	13
+Nicolas Otamendi	caps	74
+Nicolas Otamendi	age	32
+Nicolas Otamendi	jersey	19
 Argentina	defender	Nicolas Tagliafico
 Argentina	has player	Nicolas Tagliafico
 Nicolas Tagliafico	position	defender
 Nicolas Tagliafico	goals	0
-Nicolas Tagliafico	caps	20
-Nicolas Tagliafico	age	26
+Nicolas Tagliafico	caps	28
+Nicolas Tagliafico	age	28
 Nicolas Tagliafico	jersey	3
-Argentina	defender	German Pezzella
-Argentina	has player	German Pezzella
-German Pezzella	position	defender
-German Pezzella	goals	1
-German Pezzella	caps	13
-German Pezzella	age	28
-German Pezzella	jersey	6
-Argentina	defender	Juan Foyth
-Argentina	has player	Juan Foyth
-Juan Foyth	position	defender
-Juan Foyth	goals	0
-Juan Foyth	caps	7
-Juan Foyth	age	21
-Juan Foyth	jersey	2
-Argentina	defender	Renzo Saravia
-Argentina	has player	Renzo Saravia
-Renzo Saravia	position	defender
-Renzo Saravia	goals	0
-Renzo Saravia	caps	6
-Renzo Saravia	age	25
-Renzo Saravia	jersey	4
+Argentina	defender	Walter Kannemann
+Argentina	has player	Walter Kannemann
+Walter Kannemann	position	defender
+Walter Kannemann	goals	0
+Walter Kannemann	caps	6
+Walter Kannemann	age	29
+Walter Kannemann	jersey	6
+Argentina	defender	Lucas Martinez Quarta
+Argentina	has player	Lucas Martinez Quarta
+Lucas Martinez Quarta	position	defender
+Lucas Martinez Quarta	goals	0
+Lucas Martinez Quarta	caps	6
+Lucas Martinez Quarta	age	24
+Lucas Martinez Quarta	jersey	2
+Argentina	defender	Gonzalo Montiel
+Argentina	has player	Gonzalo Montiel
+Gonzalo Montiel	position	defender
+Gonzalo Montiel	goals	0
+Gonzalo Montiel	caps	6
+Gonzalo Montiel	age	23
+Gonzalo Montiel	jersey	4
 Argentina	midfielder	Angel Di Maria
 Argentina	has player	Angel Di Maria
 Angel Di Maria	position	midfielder
 Angel Di Maria	goals	20
-Angel Di Maria	caps	102
-Angel Di Maria	age	31
+Angel Di Maria	caps	104
+Angel Di Maria	age	32
 Angel Di Maria	jersey	11
-Argentina	midfielder	Marcos Acuna
-Argentina	has player	Marcos Acuna
-Marcos Acuna	position	midfielder
-Marcos Acuna	goals	0
-Marcos Acuna	caps	21
-Marcos Acuna	age	27
-Marcos Acuna	jersey	8
+Argentina	midfielder	Leandro Paredes
+Argentina	has player	Leandro Paredes
+Leandro Paredes	position	midfielder
+Leandro Paredes	goals	3
+Leandro Paredes	caps	28
+Leandro Paredes	age	26
+Leandro Paredes	jersey	5
 Argentina	midfielder	Giovani Lo Celso
 Argentina	has player	Giovani Lo Celso
 Giovani Lo Celso	position	midfielder
 Giovani Lo Celso	goals	2
-Giovani Lo Celso	caps	19
-Giovani Lo Celso	age	23
+Giovani Lo Celso	caps	23
+Giovani Lo Celso	age	24
 Giovani Lo Celso	jersey	20
-Argentina	midfielder	Leandro Paredes
-Argentina	has player	Leandro Paredes
-Leandro Paredes	position	midfielder
-Leandro Paredes	goals	1
-Leandro Paredes	caps	18
-Leandro Paredes	age	25
-Leandro Paredes	jersey	5
-Argentina	midfielder	Roberto Pereyra
-Argentina	has player	Roberto Pereyra
-Roberto Pereyra	position	midfielder
-Roberto Pereyra	goals	2
-Roberto Pereyra	caps	17
-Roberto Pereyra	age	28
-Roberto Pereyra	jersey	7
 Argentina	midfielder	Rodrigo De Paul
 Argentina	has player	Rodrigo De Paul
 Rodrigo De Paul	position	midfielder
 Rodrigo De Paul	goals	0
-Rodrigo De Paul	caps	11
-Rodrigo De Paul	age	25
-Rodrigo De Paul	jersey	16
+Rodrigo De Paul	caps	21
+Rodrigo De Paul	age	26
+Rodrigo De Paul	jersey	8
+Argentina	midfielder	Guido Rodriguez
+Argentina	has player	Guido Rodriguez
+Guido Rodriguez	position	midfielder
+Guido Rodriguez	goals	0
+Guido Rodriguez	caps	10
+Guido Rodriguez	age	26
+Guido Rodriguez	jersey	16
+Argentina	midfielder	Nicolas Dominguez
+Argentina	has player	Nicolas Dominguez
+Nicolas Dominguez	position	midfielder
+Nicolas Dominguez	goals	1
+Nicolas Dominguez	caps	8
+Nicolas Dominguez	age	22
+Nicolas Dominguez	jersey	17
 Argentina	forward	Lionel Messi 
 Argentina	has player	Lionel Messi 
 Lionel Messi 	position	forward
-Lionel Messi 	goals	68
-Lionel Messi 	caps	136
-Lionel Messi 	age	32
+Lionel Messi 	goals	71
+Lionel Messi 	caps	142
+Lionel Messi 	age	33
 Lionel Messi 	jersey	10
+Argentina	forward	Lautaro Martinez
+Argentina	has player	Lautaro Martinez
+Lautaro Martinez	position	forward
+Lautaro Martinez	goals	11
+Lautaro Martinez	caps	21
+Lautaro Martinez	age	23
+Lautaro Martinez	jersey	22
+Argentina	forward	Lucas Alario
+Argentina	has player	Lucas Alario
+Lucas Alario	position	forward
+Lucas Alario	goals	3
+Lucas Alario	caps	9
+Lucas Alario	age	28
+Lucas Alario	jersey	13
+Argentina	forward	Lucas Ocampos
+Argentina	has player	Lucas Ocampos
+Lucas Ocampos	position	forward
+Lucas Ocampos	goals	2
+Lucas Ocampos	caps	7
+Lucas Ocampos	age	26
+Lucas Ocampos	jersey	18
+Argentina	forward	Nicolas Gonzalez
+Argentina	has player	Nicolas Gonzalez
+Nicolas Gonzalez	position	forward
+Nicolas Gonzalez	goals	2
+Nicolas Gonzalez	caps	5
+Nicolas Gonzalez	age	22
+Nicolas Gonzalez	jersey	21
+Argentina	forward	Joaquin Correa
+Argentina	has player	Joaquin Correa
+Joaquin Correa	position	forward
+Joaquin Correa	goals	2
+Joaquin Correa	caps	5
+Joaquin Correa	age	26
+Joaquin Correa	jersey	9
+Argentina	forward	Alejandro Gomez
+Argentina	has player	Alejandro Gomez
+Alejandro Gomez	position	forward
+Alejandro Gomez	goals	1
+Alejandro Gomez	caps	5
+Alejandro Gomez	age	32
+Alejandro Gomez	jersey	7
 Argentina	forward	Sergio Aguero
 Argentina	has player	Sergio Aguero
 Sergio Aguero	position	forward
 Sergio Aguero	goals	41
-Sergio Aguero	caps	96
-Sergio Aguero	age	31
-Sergio Aguero	jersey	9
-Argentina	forward	Paulo Dybala
-Argentina	has player	Paulo Dybala
-Paulo Dybala	position	forward
-Paulo Dybala	goals	2
-Paulo Dybala	caps	24
-Paulo Dybala	age	25
-Paulo Dybala	jersey	21
-Argentina	forward	Lautaro Martinez
-Argentina	has player	Lautaro Martinez
-Lautaro Martinez	position	forward
-Lautaro Martinez	goals	6
-Lautaro Martinez	caps	11
-Lautaro Martinez	age	21
-Lautaro Martinez	jersey	22
-Argentina	forward	Matias Suarez
-Argentina	has player	Matias Suarez
-Matias Suarez	position	forward
-Matias Suarez	goals	0
-Matias Suarez	caps	6
-Matias Suarez	age	31
-Matias Suarez	jersey	19
-Argentina	goalkeeper	Sergio Romero
-Argentina	has player	Sergio Romero
-Sergio Romero	position	goalkeeper
-Sergio Romero	goals	0
-Sergio Romero	caps	96
-Sergio Romero	age	32
+Sergio Aguero	caps	97
+Sergio Aguero	age	32

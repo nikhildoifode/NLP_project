@@ -7,111 +7,150 @@ France	goalkeeper	Hugo Lloris
 France	has player	Hugo Lloris 
 Hugo Lloris 	position	goalkeeper
 Hugo Lloris 	goals	0
-Hugo Lloris 	caps	112
-Hugo Lloris 	age	32
+Hugo Lloris 	caps	120
+Hugo Lloris 	age	33
 Hugo Lloris 	jersey	1
-France	defender	Benjamin Pavard
-France	has player	Benjamin Pavard
-Benjamin Pavard	position	defender
-Benjamin Pavard	goals	1
-Benjamin Pavard	caps	22
-Benjamin Pavard	age	23
-Benjamin Pavard	jersey	2
+France	goalkeeper	Steve Mandanda
+France	has player	Steve Mandanda
+Steve Mandanda	position	goalkeeper
+Steve Mandanda	goals	0
+Steve Mandanda	caps	34
+Steve Mandanda	age	35
+Steve Mandanda	jersey	16
 France	defender	Raphael Varane
 France	has player	Raphael Varane
 Raphael Varane	position	defender
-Raphael Varane	goals	4
-Raphael Varane	caps	58
-Raphael Varane	age	26
+Raphael Varane	goals	5
+Raphael Varane	caps	71
+Raphael Varane	age	27
 Raphael Varane	jersey	4
-France	defender	Samuel Umtiti
-France	has player	Samuel Umtiti
-Samuel Umtiti	position	defender
-Samuel Umtiti	goals	4
-Samuel Umtiti	caps	31
-Samuel Umtiti	age	25
-Samuel Umtiti	jersey	5
 France	defender	Lucas Digne
 France	has player	Lucas Digne
 Lucas Digne	position	defender
 Lucas Digne	goals	0
-Lucas Digne	caps	25
-Lucas Digne	age	25
-Lucas Digne	jersey	12
+Lucas Digne	caps	35
+Lucas Digne	age	27
+Lucas Digne	jersey	19
+France	defender	Benjamin Pavard
+France	has player	Benjamin Pavard
+Benjamin Pavard	position	defender
+Benjamin Pavard	goals	2
+Benjamin Pavard	caps	31
+Benjamin Pavard	age	24
+Benjamin Pavard	jersey	2
+France	defender	Lucas Hernandez
+France	has player	Lucas Hernandez
+Lucas Hernandez	position	defender
+Lucas Hernandez	goals	0
+Lucas Hernandez	caps	22
+Lucas Hernandez	age	24
+Lucas Hernandez	jersey	21
+France	defender	Presnel Kimpembe
+France	has player	Presnel Kimpembe
+Presnel Kimpembe	position	defender
+Presnel Kimpembe	goals	0
+Presnel Kimpembe	caps	13
+Presnel Kimpembe	age	25
+Presnel Kimpembe	jersey	3
+France	defender	Clement Lenglet
+France	has player	Clement Lenglet
+Clement Lenglet	position	defender
+Clement Lenglet	goals	1
+Clement Lenglet	caps	11
+Clement Lenglet	age	25
+Clement Lenglet	jersey	5
 France	defender	Kurt Zouma
 France	has player	Kurt Zouma
 Kurt Zouma	position	defender
 Kurt Zouma	goals	1
-Kurt Zouma	caps	5
-Kurt Zouma	age	24
-Kurt Zouma	jersey	15
+Kurt Zouma	caps	7
+Kurt Zouma	age	26
+Kurt Zouma	jersey	13
+France	defender	Leo Dubois
+France	has player	Leo Dubois
+Leo Dubois	position	defender
+Leo Dubois	goals	0
+Leo Dubois	caps	6
+Leo Dubois	age	26
+Leo Dubois	jersey	20
 France	midfielder	Paul Pogba
 France	has player	Paul Pogba
 Paul Pogba	position	midfielder
 Paul Pogba	goals	10
-Paul Pogba	caps	69
-Paul Pogba	age	26
+Paul Pogba	caps	75
+Paul Pogba	age	27
 Paul Pogba	jersey	6
-France	midfielder	Blaise Matuidi
-France	has player	Blaise Matuidi
-Blaise Matuidi	position	midfielder
-Blaise Matuidi	goals	9
-Blaise Matuidi	caps	81
-Blaise Matuidi	age	32
-Blaise Matuidi	jersey	14
 France	midfielder	Moussa Sissoko
 France	has player	Moussa Sissoko
 Moussa Sissoko	position	midfielder
 Moussa Sissoko	goals	2
-Moussa Sissoko	caps	58
-Moussa Sissoko	age	29
+Moussa Sissoko	caps	65
+Moussa Sissoko	age	31
 Moussa Sissoko	jersey	17
-France	midfielder	Tanguy Ndombele
-France	has player	Tanguy Ndombele
-Tanguy Ndombele	position	midfielder
-Tanguy Ndombele	goals	0
-Tanguy Ndombele	caps	6
-Tanguy Ndombele	age	22
-Tanguy Ndombele	jersey	21
-France	forward	Antoine Griezmann
-France	has player	Antoine Griezmann
-Antoine Griezmann	position	forward
-Antoine Griezmann	goals	29
-Antoine Griezmann	caps	72
-Antoine Griezmann	age	28
-Antoine Griezmann	jersey	7
-France	forward	Thomas Lemar
-France	has player	Thomas Lemar
-Thomas Lemar	position	forward
-Thomas Lemar	goals	4
-Thomas Lemar	caps	18
-Thomas Lemar	age	23
-Thomas Lemar	jersey	8
+France	midfielder	N'Golo Kante
+France	has player	N'Golo Kante
+N'Golo Kante	position	midfielder
+N'Golo Kante	goals	2
+N'Golo Kante	caps	44
+N'Golo Kante	age	29
+France	midfielder	Corentin Tolisso
+France	has player	Corentin Tolisso
+Corentin Tolisso	position	midfielder
+Corentin Tolisso	goals	2
+Corentin Tolisso	caps	23
+Corentin Tolisso	age	26
+France	midfielder	Steven Nzonzi
+France	has player	Steven Nzonzi
+Steven Nzonzi	position	midfielder
+Steven Nzonzi	goals	0
+Steven Nzonzi	caps	20
+Steven Nzonzi	age	31
+Steven Nzonzi	jersey	15
+France	midfielder	Adrien Rabiot
+France	has player	Adrien Rabiot
+Adrien Rabiot	position	midfielder
+Adrien Rabiot	goals	0
+Adrien Rabiot	caps	11
+Adrien Rabiot	age	25
+Adrien Rabiot	jersey	14
 France	forward	Olivier Giroud
 France	has player	Olivier Giroud
 Olivier Giroud	position	forward
-Olivier Giroud	goals	35
-Olivier Giroud	caps	91
-Olivier Giroud	age	32
+Olivier Giroud	goals	44
+Olivier Giroud	caps	105
+Olivier Giroud	age	34
 Olivier Giroud	jersey	9
+France	forward	Antoine Griezmann
+France	has player	Antoine Griezmann
+Antoine Griezmann	position	forward
+Antoine Griezmann	goals	33
+Antoine Griezmann	caps	86
+Antoine Griezmann	age	29
+Antoine Griezmann	jersey	7
 France	forward	Kylian Mbappe
 France	has player	Kylian Mbappe
 Kylian Mbappe	position	forward
-Kylian Mbappe	goals	13
-Kylian Mbappe	caps	33
-Kylian Mbappe	age	20
+Kylian Mbappe	goals	16
+Kylian Mbappe	caps	39
+Kylian Mbappe	age	21
 Kylian Mbappe	jersey	10
 France	forward	Kingsley Coman
 France	has player	Kingsley Coman
 Kingsley Coman	position	forward
-Kingsley Coman	goals	1
-Kingsley Coman	caps	17
-Kingsley Coman	age	23
+Kingsley Coman	goals	5
+Kingsley Coman	caps	26
+Kingsley Coman	age	24
 Kingsley Coman	jersey	11
-France	forward	Florian Thauvin
-France	has player	Florian Thauvin
-Florian Thauvin	position	forward
-Florian Thauvin	goals	1
-Florian Thauvin	caps	10
-Florian Thauvin	age	26
-Florian Thauvin	jersey	20
+France	forward	Anthony Martial
+France	has player	Anthony Martial
+Anthony Martial	position	forward
+Anthony Martial	goals	1
+Anthony Martial	caps	25
+Anthony Martial	age	25
+Anthony Martial	jersey	18
+France	forward	Wissam Ben Yedder
+France	has player	Wissam Ben Yedder
+Wissam Ben Yedder	position	forward
+Wissam Ben Yedder	goals	2
+Wissam Ben Yedder	caps	11
+Wissam Ben Yedder	age	30

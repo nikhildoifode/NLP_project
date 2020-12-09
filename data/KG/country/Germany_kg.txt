@@ -9,117 +9,137 @@ Germany	goalkeeper	Manuel Neuer
 Germany	has player	Manuel Neuer 
 Manuel Neuer 	position	goalkeeper
 Manuel Neuer 	goals	0
-Manuel Neuer 	caps	88
-Manuel Neuer 	age	33
+Manuel Neuer 	caps	96
+Manuel Neuer 	age	34
 Manuel Neuer 	jersey	1
-Germany	defender	Thilo Kehrer
-Germany	has player	Thilo Kehrer
-Thilo Kehrer	position	defender
-Thilo Kehrer	goals	0
-Thilo Kehrer	caps	7
-Thilo Kehrer	age	22
-Thilo Kehrer	jersey	2
-Germany	defender	Jonas Hector
-Germany	has player	Jonas Hector
-Jonas Hector	position	defender
-Jonas Hector	goals	3
-Jonas Hector	caps	42
-Jonas Hector	age	29
-Jonas Hector	jersey	3
+Germany	goalkeeper	Bernd Leno
+Germany	has player	Bernd Leno
+Bernd Leno	position	goalkeeper
+Bernd Leno	goals	0
+Bernd Leno	caps	8
+Bernd Leno	age	28
+Bernd Leno	jersey	12
+Germany	goalkeeper	Kevin Trapp
+Germany	has player	Kevin Trapp
+Kevin Trapp	position	goalkeeper
+Kevin Trapp	goals	0
+Kevin Trapp	caps	5
+Kevin Trapp	age	30
+Kevin Trapp	jersey	22
+Germany	defender	Robin Koch
+Germany	has player	Robin Koch
+Robin Koch	position	defender
+Robin Koch	goals	0
+Robin Koch	caps	7
+Robin Koch	age	24
+Robin Koch	jersey	2
 Germany	defender	Matthias Ginter
 Germany	has player	Matthias Ginter
 Matthias Ginter	position	defender
-Matthias Ginter	goals	0
-Matthias Ginter	caps	26
-Matthias Ginter	age	25
+Matthias Ginter	goals	2
+Matthias Ginter	caps	35
+Matthias Ginter	age	26
 Matthias Ginter	jersey	4
 Germany	defender	Jonathan Tah
 Germany	has player	Jonathan Tah
 Jonathan Tah	position	defender
 Jonathan Tah	goals	0
-Jonathan Tah	caps	6
-Jonathan Tah	age	23
+Jonathan Tah	caps	13
+Jonathan Tah	age	24
 Jonathan Tah	jersey	5
-Germany	defender	Nico Schulz
-Germany	has player	Nico Schulz
-Nico Schulz	position	defender
-Nico Schulz	goals	2
-Nico Schulz	caps	8
-Nico Schulz	age	26
-Nico Schulz	jersey	14
+Germany	defender	Benjamin Henrichs
+Germany	has player	Benjamin Henrichs
+Benjamin Henrichs	position	defender
+Benjamin Henrichs	goals	0
+Benjamin Henrichs	caps	5
+Benjamin Henrichs	age	23
+Benjamin Henrichs	jersey	14
 Germany	defender	Niklas Sule
 Germany	has player	Niklas Sule
 Niklas Sule	position	defender
 Niklas Sule	goals	1
-Niklas Sule	caps	20
-Niklas Sule	age	23
+Niklas Sule	caps	29
+Niklas Sule	age	25
 Niklas Sule	jersey	15
-Germany	midfielder	Joshua Kimmich
-Germany	has player	Joshua Kimmich
-Joshua Kimmich	position	midfielder
-Joshua Kimmich	goals	3
-Joshua Kimmich	caps	42
-Joshua Kimmich	age	24
-Joshua Kimmich	jersey	6
-Germany	midfielder	Julian Draxler
-Germany	has player	Julian Draxler
-Julian Draxler	position	midfielder
-Julian Draxler	goals	6
-Julian Draxler	caps	51
-Julian Draxler	age	25
-Julian Draxler	jersey	7
+Germany	defender	Antonio Rudiger
+Germany	has player	Antonio Rudiger
+Antonio Rudiger	position	defender
+Antonio Rudiger	goals	1
+Antonio Rudiger	caps	37
+Antonio Rudiger	age	27
+Antonio Rudiger	jersey	16
+Germany	midfielder	Nadiem Amiri
+Germany	has player	Nadiem Amiri
+Nadiem Amiri	position	midfielder
+Nadiem Amiri	goals	0
+Nadiem Amiri	caps	5
+Nadiem Amiri	age	24
+Nadiem Amiri	jersey	7
+Germany	midfielder	Toni Kroos
+Germany	has player	Toni Kroos
+Toni Kroos	position	midfielder
+Toni Kroos	goals	17
+Toni Kroos	caps	101
+Toni Kroos	age	30
+Toni Kroos	jersey	8
 Germany	midfielder	Julian Brandt
 Germany	has player	Julian Brandt
 Julian Brandt	position	midfielder
-Julian Brandt	goals	2
-Julian Brandt	caps	25
-Julian Brandt	age	23
+Julian Brandt	goals	3
+Julian Brandt	caps	35
+Julian Brandt	age	24
 Julian Brandt	jersey	10
-Germany	midfielder	Marco Reus
-Germany	has player	Marco Reus
-Marco Reus	position	midfielder
-Marco Reus	goals	13
-Marco Reus	caps	41
-Marco Reus	age	30
-Marco Reus	jersey	11
 Germany	midfielder	Leon Goretzka
 Germany	has player	Leon Goretzka
 Leon Goretzka	position	midfielder
-Leon Goretzka	goals	8
-Leon Goretzka	caps	23
-Leon Goretzka	age	24
+Leon Goretzka	goals	12
+Leon Goretzka	caps	29
+Leon Goretzka	age	25
 Leon Goretzka	jersey	18
 Germany	midfielder	Leroy Sane
 Germany	has player	Leroy Sane
 Leroy Sane	position	midfielder
-Leroy Sane	goals	5
-Leroy Sane	caps	21
-Leroy Sane	age	23
+Leroy Sane	goals	6
+Leroy Sane	caps	25
+Leroy Sane	age	24
 Leroy Sane	jersey	19
-Germany	midfielder	Serge Gnabry
-Germany	has player	Serge Gnabry
-Serge Gnabry	position	midfielder
-Serge Gnabry	goals	7
-Serge Gnabry	caps	8
-Serge Gnabry	age	23
-Serge Gnabry	jersey	20
 Germany	midfielder	Ilkay Gundogan
 Germany	has player	Ilkay Gundogan
 Ilkay Gundogan	position	midfielder
-Ilkay Gundogan	goals	5
-Ilkay Gundogan	caps	33
-Ilkay Gundogan	age	28
+Ilkay Gundogan	goals	8
+Ilkay Gundogan	caps	42
+Ilkay Gundogan	age	30
 Ilkay Gundogan	jersey	21
 Germany	forward	Timo Werner
 Germany	has player	Timo Werner
 Timo Werner	position	forward
-Timo Werner	goals	10
-Timo Werner	caps	25
-Timo Werner	age	23
+Timo Werner	goals	15
+Timo Werner	caps	35
+Timo Werner	age	24
 Timo Werner	jersey	9
-Germany	midfielder	Toni Kroos
-Germany	has player	Toni Kroos
-Toni Kroos	position	midfielder
-Toni Kroos	goals	14
-Toni Kroos	caps	92
-Toni Kroos	age	29
+Germany	forward	Luca Waldschmidt
+Germany	has player	Luca Waldschmidt
+Luca Waldschmidt	position	forward
+Luca Waldschmidt	goals	2
+Luca Waldschmidt	caps	7
+Luca Waldschmidt	age	24
+Luca Waldschmidt	jersey	11
+Germany	forward	Serge Gnabry
+Germany	has player	Serge Gnabry
+Serge Gnabry	position	forward
+Serge Gnabry	goals	14
+Serge Gnabry	caps	17
+Serge Gnabry	age	25
+Serge Gnabry	jersey	20
+Germany	midfielder	Joshua Kimmich
+Germany	has player	Joshua Kimmich
+Joshua Kimmich	position	midfielder
+Joshua Kimmich	goals	3
+Joshua Kimmich	caps	50
+Joshua Kimmich	age	25
+Germany	midfielder	Julian Draxler
+Germany	has player	Julian Draxler
+Julian Draxler	position	midfielder
+Julian Draxler	goals	7
+Julian Draxler	caps	56
+Julian Draxler	age	27

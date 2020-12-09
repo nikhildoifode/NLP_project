@@ -6,166 +6,166 @@ Sweden	goalkeeper	Robin Olsen
 Sweden	has player	Robin Olsen
 Robin Olsen	position	goalkeeper
 Robin Olsen	goals	0
-Robin Olsen	caps	31
-Robin Olsen	age	29
+Robin Olsen	caps	42
+Robin Olsen	age	30
 Robin Olsen	jersey	1
 Sweden	goalkeeper	Karl-Johan Johnsson
 Sweden	has player	Karl-Johan Johnsson
 Karl-Johan Johnsson	position	goalkeeper
 Karl-Johan Johnsson	goals	0
-Karl-Johan Johnsson	caps	7
-Karl-Johan Johnsson	age	29
+Karl-Johan Johnsson	caps	8
+Karl-Johan Johnsson	age	30
 Karl-Johan Johnsson	jersey	12
 Sweden	goalkeeper	Kristoffer Nordfeldt
 Sweden	has player	Kristoffer Nordfeldt
 Kristoffer Nordfeldt	position	goalkeeper
 Kristoffer Nordfeldt	goals	0
-Kristoffer Nordfeldt	caps	10
-Kristoffer Nordfeldt	age	30
+Kristoffer Nordfeldt	caps	12
+Kristoffer Nordfeldt	age	31
 Kristoffer Nordfeldt	jersey	23
 Sweden	defender	Mikael Lustig
 Sweden	has player	Mikael Lustig
 Mikael Lustig	position	defender
 Mikael Lustig	goals	6
-Mikael Lustig	caps	77
-Mikael Lustig	age	32
+Mikael Lustig	caps	87
+Mikael Lustig	age	33
 Mikael Lustig	jersey	2
+Sweden	defender	Victor Lindelof
+Sweden	has player	Victor Lindelof
+Victor Lindelof	position	defender
+Victor Lindelof	goals	3
+Victor Lindelof	caps	38
+Victor Lindelof	age	26
+Victor Lindelof	jersey	3
+Sweden	defender	Marcus Danielson
+Sweden	has player	Marcus Danielson
+Marcus Danielson	position	defender
+Marcus Danielson	goals	2
+Marcus Danielson	caps	7
+Marcus Danielson	age	31
+Marcus Danielson	jersey	4
+Sweden	defender	Pierre Bengtsson
+Sweden	has player	Pierre Bengtsson
+Pierre Bengtsson	position	defender
+Pierre Bengtsson	goals	0
+Pierre Bengtsson	caps	34
+Pierre Bengtsson	age	32
+Pierre Bengtsson	jersey	5
+Sweden	defender	Martin Olsson
+Sweden	has player	Martin Olsson
+Martin Olsson	position	defender
+Martin Olsson	goals	5
+Martin Olsson	caps	51
+Martin Olsson	age	32
+Martin Olsson	jersey	6
 Sweden	defender	Filip Helander
 Sweden	has player	Filip Helander
 Filip Helander	position	defender
 Filip Helander	goals	0
-Filip Helander	caps	10
-Filip Helander	age	26
-Filip Helander	jersey	3
-Sweden	defender	Alexander Milosevic
-Sweden	has player	Alexander Milosevic
-Alexander Milosevic	position	defender
-Alexander Milosevic	goals	0
-Alexander Milosevic	caps	7
-Alexander Milosevic	age	27
-Alexander Milosevic	jersey	4
-Sweden	defender	Ludwig Augustinsson
-Sweden	has player	Ludwig Augustinsson
-Ludwig Augustinsson	position	defender
-Ludwig Augustinsson	goals	1
-Ludwig Augustinsson	caps	28
-Ludwig Augustinsson	age	25
-Ludwig Augustinsson	jersey	6
-Sweden	defender	Niklas Hult
-Sweden	has player	Niklas Hult
-Niklas Hult	position	defender
-Niklas Hult	goals	0
-Niklas Hult	caps	8
-Niklas Hult	age	29
-Niklas Hult	jersey	14
+Filip Helander	caps	13
+Filip Helander	age	27
+Filip Helander	jersey	14
 Sweden	defender	Emil Krafth
 Sweden	has player	Emil Krafth
 Emil Krafth	position	defender
 Emil Krafth	goals	0
-Emil Krafth	caps	20
-Emil Krafth	age	24
+Emil Krafth	caps	24
+Emil Krafth	age	26
 Emil Krafth	jersey	16
-Sweden	defender	Pontus Jansson
-Sweden	has player	Pontus Jansson
-Pontus Jansson	position	defender
-Pontus Jansson	goals	0
-Pontus Jansson	caps	22
-Pontus Jansson	age	28
-Pontus Jansson	jersey	18
-Sweden	midfielder	Jakob Johansson
-Sweden	has player	Jakob Johansson
-Jakob Johansson	position	midfielder
-Jakob Johansson	goals	1
-Jakob Johansson	caps	18
-Jakob Johansson	age	29
-Jakob Johansson	jersey	5
-Sweden	midfielder	Sebastian Larsson 
-Sweden	has player	Sebastian Larsson 
-Sebastian Larsson 	position	midfielder
-Sebastian Larsson 	goals	6
-Sebastian Larsson 	caps	113
-Sebastian Larsson 	age	34
-Sebastian Larsson 	jersey	7
-Sweden	midfielder	Albin Ekdal 
-Sweden	has player	Albin Ekdal 
-Albin Ekdal 	position	midfielder
-Albin Ekdal 	goals	0
-Albin Ekdal 	caps	45
-Albin Ekdal 	age	29
-Albin Ekdal 	jersey	8
+Sweden	defender	Mattias Johansson
+Sweden	has player	Mattias Johansson
+Mattias Johansson	position	defender
+Mattias Johansson	goals	1
+Mattias Johansson	caps	6
+Mattias Johansson	age	28
+Mattias Johansson	jersey	24
+Sweden	defender	Sebastian Holmen
+Sweden	has player	Sebastian Holmen
+Sebastian Holmen	position	defender
+Sebastian Holmen	goals	0
+Sebastian Holmen	caps	6
+Sebastian Holmen	age	28
+Sebastian Holmen	jersey	25
+Sweden	midfielder	Sebastian Larsson
+Sweden	has player	Sebastian Larsson
+Sebastian Larsson	position	midfielder
+Sebastian Larsson	goals	8
+Sebastian Larsson	caps	125
+Sebastian Larsson	age	35
+Sebastian Larsson	jersey	7
 Sweden	midfielder	Emil Forsberg
 Sweden	has player	Emil Forsberg
 Emil Forsberg	position	midfielder
-Emil Forsberg	goals	7
-Emil Forsberg	caps	45
-Emil Forsberg	age	27
+Emil Forsberg	goals	8
+Emil Forsberg	caps	54
+Emil Forsberg	age	29
 Emil Forsberg	jersey	10
 Sweden	midfielder	Gustav Svensson
 Sweden	has player	Gustav Svensson
 Gustav Svensson	position	midfielder
 Gustav Svensson	goals	0
-Gustav Svensson	caps	22
-Gustav Svensson	age	32
+Gustav Svensson	caps	30
+Gustav Svensson	age	33
 Gustav Svensson	jersey	13
+Sweden	midfielder	Dejan Kulusevski
+Sweden	has player	Dejan Kulusevski
+Dejan Kulusevski	position	midfielder
+Dejan Kulusevski	goals	1
+Dejan Kulusevski	caps	8
+Dejan Kulusevski	age	20
+Dejan Kulusevski	jersey	15
+Sweden	midfielder	Viktor Claesson
+Sweden	has player	Viktor Claesson
+Viktor Claesson	position	midfielder
+Viktor Claesson	goals	8
+Viktor Claesson	caps	42
+Viktor Claesson	age	28
+Viktor Claesson	jersey	17
 Sweden	midfielder	Kristoffer Olsson
 Sweden	has player	Kristoffer Olsson
 Kristoffer Olsson	position	midfielder
 Kristoffer Olsson	goals	0
-Kristoffer Olsson	caps	9
-Kristoffer Olsson	age	24
+Kristoffer Olsson	caps	22
+Kristoffer Olsson	age	25
 Kristoffer Olsson	jersey	20
-Sweden	midfielder	Jimmy Durmaz
-Sweden	has player	Jimmy Durmaz
-Jimmy Durmaz	position	midfielder
-Jimmy Durmaz	goals	3
-Jimmy Durmaz	caps	48
-Jimmy Durmaz	age	30
-Jimmy Durmaz	jersey	21
-Sweden	forward	Marcus Berg
-Sweden	has player	Marcus Berg
-Marcus Berg	position	forward
-Marcus Berg	goals	19
-Marcus Berg	caps	71
-Marcus Berg	age	32
-Marcus Berg	jersey	9
-Sweden	forward	John Guidetti
-Sweden	has player	John Guidetti
-John Guidetti	position	forward
-John Guidetti	goals	2
-John Guidetti	caps	27
-John Guidetti	age	27
-John Guidetti	jersey	11
+Sweden	midfielder	Ken Sema
+Sweden	has player	Ken Sema
+Ken Sema	position	midfielder
+Ken Sema	goals	0
+Ken Sema	caps	9
+Ken Sema	age	27
+Ken Sema	jersey	21
+Sweden	forward	Jordan Larsson
+Sweden	has player	Jordan Larsson
+Jordan Larsson	position	forward
+Jordan Larsson	goals	1
+Jordan Larsson	caps	5
+Jordan Larsson	age	23
+Jordan Larsson	jersey	8
+Sweden	forward	Marcus Berg 
+Sweden	has player	Marcus Berg 
+Marcus Berg 	position	forward
+Marcus Berg 	goals	22
+Marcus Berg 	caps	82
+Marcus Berg 	age	34
+Marcus Berg 	jersey	9
 Sweden	forward	Alexander Isak
 Sweden	has player	Alexander Isak
 Alexander Isak	position	forward
-Alexander Isak	goals	2
-Alexander Isak	caps	6
-Alexander Isak	age	19
-Alexander Isak	jersey	15
-Sweden	forward	Viktor Claesson
-Sweden	has player	Viktor Claesson
-Viktor Claesson	position	forward
-Viktor Claesson	goals	7
-Viktor Claesson	caps	37
-Viktor Claesson	age	27
-Viktor Claesson	jersey	17
-Sweden	forward	Sebastian Andersson
-Sweden	has player	Sebastian Andersson
-Sebastian Andersson	position	forward
-Sebastian Andersson	goals	2
-Sebastian Andersson	caps	5
-Sebastian Andersson	age	27
-Sebastian Andersson	jersey	19
+Alexander Isak	goals	5
+Alexander Isak	caps	18
+Alexander Isak	age	21
+Alexander Isak	jersey	11
 Sweden	forward	Robin Quaison
 Sweden	has player	Robin Quaison
 Robin Quaison	position	forward
-Robin Quaison	goals	5
-Robin Quaison	caps	10
-Robin Quaison	age	25
+Robin Quaison	goals	8
+Robin Quaison	caps	21
+Robin Quaison	age	27
 Robin Quaison	jersey	22
-Sweden	defender	Andreas Granqvist
-Sweden	has player	Andreas Granqvist
-Andreas Granqvist	position	defender
-Andreas Granqvist	goals	9
-Andreas Granqvist	caps	83
-Andreas Granqvist	age	34
+Sweden	midfielder	Albin Ekdal
+Sweden	has player	Albin Ekdal
+Albin Ekdal	position	midfielder
+Albin Ekdal	goals	0
+Albin Ekdal	caps	55
+Albin Ekdal	age	31
