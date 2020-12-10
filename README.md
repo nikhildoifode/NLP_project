@@ -93,8 +93,8 @@ Thanks to the authors for making the dataset public - https://github.com/SmartDa
 ### Baseline Source Code
 
 - Key value memory networks - https://github.com/sunnysai12345/KVMemnn
-- GUpdater - https://github.com/esddse/GUpdater
 - KG-Copy_network - https://github.com/SmartDataAnalytics/KG-Copy_Network
+- GUpdater - https://github.com/esddse/GUpdater
 
 ### New Additions
 
@@ -102,3 +102,4 @@ Thanks to the authors for making the dataset public - https://github.com/SmartDa
 - Added new questions for testing purpose
 - Updated Sentient Attention class to increase the similarity score between the senetence embedding of question and knowledge graph.
 - Updated Sentient Attention class by adding layers for sentinel function
+- Scraping club info for KG from Wikipedia in correct format
