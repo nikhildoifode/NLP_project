@@ -5,7 +5,7 @@ import torch
 from batcher_kb_2 import DialogBatcher
 from tqdm import tqdm
 import pandas as pd
-from utils_new import save_model
+from utils_new import load_model
 from metrics import EmbeddingMetrics
 from bleu import get_moses_multi_bleu
 
@@ -100,87 +100,54 @@ def compute_f1(gold,pred,entities,teams):
     return f1_score
 
 
-def train():
+def test(model):
+    model = load_model(model, model_name, args.gpu)
+    print('\n\n-------------------------------------------')
+    print('Testing')
+    print('-------------------------------------------')
+    test_iter = enumerate(chat_data.get_iter('test'))
+    if not args.no_tqdm:
+        test_iter = tqdm(test_iter)
+        test_iter.set_description_str('Testing')
+        test_iter.total = chat_data.n_test // chat_data.batch_size
 
-    best_val_loss = 100.0
-    emb_val = -1000
+    test_loss = 0.0
+    extrema = []
+    gm = []
+    emb_avg_all = []
+    predicted_s = []
+    orig_s = []
+    f1_score = 0.0
+    for it, mb in test_iter:
+        q, q_c, a, q_m, a_m, kb, kb_m, sentient, v_m, teams = mb
+        pred, loss = model.evaluate_batch(q, q_c, a, q_m, a_m, kb, kb_m, sentient)
+        pred = pred.transpose(0, 1).contiguous()
+        a = a.transpose(0, 1).contiguous()
+        s_g = get_sentences(a, teams)
+        s_p = get_sentences(pred, teams)
+        e_a, v_e, g_m = metrics.get_metrics_batch(s_g, s_p)
+        f1_score += compute_f1(s_g, s_p, global_entity_list, teams)
+        emb_avg_all.append(e_a)
+        extrema.append(v_e)
+        gm.append(g_m)
+        predicted_s.append(s_p)
+        orig_s.append(s_g)
+        test_loss += loss.item()
 
-    global_entity_list = []
-    best_blue = 0.0
-    f1_sc = 0.0
-    for epoch in range(args.epochs):
-        epsilon = 0.000000001
-        model.train()
-        print('\n\n-------------------------------------------')
-        print('Epoch-{}'.format(epoch))
-        print('-------------------------------------------')
-
-        train_iter = enumerate(chat_data.get_iter('train'))
-        if not args.no_tqdm:
-            train_iter = tqdm(train_iter)
-            train_iter.set_description_str('Training')
-            train_iter.total = chat_data.n_train // chat_data.batch_size
-        for it, mb in train_iter:
-            q, q_c, a, q_m, a_m, kb, kb_m, sentient, v_m, teams = mb
-            model.train_batch(q, q_c, a, q_m, a_m, kb, kb_m, sentient)
-            train_iter.set_description(model.print_loss())
-
-        print('\n\n-------------------------------------------')
-        print('Validation')
-        print('-------------------------------------------')
-        val_iter = enumerate(chat_data.get_iter('valid'))
-        if not args.no_tqdm:
-            val_iter = tqdm(val_iter)
-            val_iter.set_description_str('Validation')
-            val_iter.total = chat_data.n_val // chat_data.batch_size
-
-        val_loss = 0.0
-        extrema = []
-        gm = []
-        emb_avg_all = []
-        predicted_s = []
-        orig_s = []
-        f1_score = 0.0
-        for it, mb in val_iter:
-            q, q_c, a, q_m, a_m, kb, kb_m, sentient, v_m, teams = mb
-            pred, loss = model.evaluate_batch(q, q_c, a, q_m, a_m, kb, kb_m, sentient)
-
-            pred = pred.transpose(0, 1).contiguous()
-            a = a.transpose(0, 1).contiguous()
-            s_g = get_sentences(a, teams)
-            s_p = get_sentences(pred, teams)
-            e_a, v_e, g_m = metrics.get_metrics_batch(s_g, s_p)
-            f1_score += compute_f1(s_g,s_p,global_entity_list,teams)
-
-            emb_avg_all.append(e_a)
-            extrema.append(v_e)
-            gm.append(g_m)
-            predicted_s.append(s_p)
-            orig_s.append(s_g)
-            val_loss += loss.item()
-
-        print('\n\n-------------------------------------------')
-        print ('Sample prediction')
-        print('-------------------------------------------')
-        print("Vector extrema:" + str(np.average(extrema)))
-        print("Greedy Matching:" + str(np.average(gm)))
-        print('Embedding Average for this epoch:{:.6f}'.format(np.average(emb_avg_all)))
-        predicted_s = [q for ques in predicted_s for q in ques]
-        orig_s = [q for ques in orig_s for q in ques]
-        moses_bleu = get_moses_multi_bleu(predicted_s, orig_s, lowercase=True)
-        print ('Length of pred:' + str(len(orig_s)) + ' moses bleu: '+ str(moses_bleu))
-        f1 = f1_score/len(val_iter)
-        print("F1 score: ", f1)
-        if moses_bleu is not None:
-            if moses_bleu>best_blue:
-                best_blue=moses_bleu
-                f1_sc = f1
-                print('Saving best model')
-                print('moses bleu:{:.4f}, F1:{:.4f}'.format(best_blue,f1))
-                save_model(model, model_name)
-            else:
-                print ('Not saving the model. Best validation moses bleu so far:{:.4f} with f1:{:.4f}'.format(best_blue,f1_sc))
-        print ('Validation Loss:{:.2f}'.format(val_loss/val_iter.total))
+    print ("Vector extrema:" + str(np.average(extrema)))
+    print ("Greedy Matching:" + str(np.average(gm)))
+    print ("Embedding Average on Test:{:.6f}".format(np.average(emb_avg_all)))
+    print('\n\n-------------------------------------------')
+    print('-------------------------------------------')
+    predicted_s = [q for ques in predicted_s for q in ques]
+    orig_s = [q for ques in orig_s for q in ques]
+    moses_bleu = get_moses_multi_bleu(predicted_s, orig_s, lowercase=True)
+    print ("Moses Bleu:" + str(moses_bleu))
+    print("F1 score: ", f1_score / len(test_iter))
+    test_out['original_response'] = orig_s
+    test_out['predicted_response'] = predicted_s
+    print ('Saving the test predictions......')
+    test_out.to_csv(test_results, index=False)
 
 
 def get_sentences(sent_indexed, teams):
@@ -215,4 +182,4 @@ def get_sent(sent, team):
 
 
 if __name__ == '__main__':
-    train()
+    test(model)

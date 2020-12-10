@@ -1,14 +1,15 @@
-# Using a KG-Copy Network for Non-Goal Oriented Dialogues
+# Designing a non-goal oriented Question Answering System for Soccer
 
 ## Requirements
 
-- python 3.6
-- pytorch 1.2.0
-- Run ```conda create -n nlp_proj python=3.6```
-- Run ```conda activate nlp_proj```
-- Run ```pip install -r requirements.txt```
+This project is implemented in python 3.6 and pytorch 1.2.0. Follow these steps to setup your environment:
 
-**NOTE: The following pre-processing step is not required if you just want to train the system on our processed data (since all the required pre-processed data are included in the project directory).
+- [Download and install Conda](http://https://conda.io/projects/conda/en/latest/user-guide/install/index.html "Download and install Conda")
+- Create a Conda environment with Python 3.6: ```conda create -n nlp_proj python=3.6```
+- Activate the Conda environment: ```conda activate nlp_proj```
+- Install the requirements: ```pip install -r requirements.txt```
+
+> NOTE: The following pre-processing step is not required if you just want to train/test the system on our processed data (since all the required pre-processed data are included in the project directory).
 
 ## Pre-processing
 
@@ -49,19 +50,55 @@ python utils/generate_entities_soccer.py
 
 ## Train & Test
 
-Pre-processing is not required if you just want to train/test the model at this point. To train the system run the following command:
+> NOTE: The training step is not required if you just want to test the system on proposed model (since the required model is already included in the project directory). You can just run the test command in this case.
 
-For running train and test with GPU:
+To train the system run the following command:
+
+For training with GPU:
 
 ```
 python -u ./train_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --gpu 1 --epochs 150 --data_dir preproc_files/soccer/
 ```
 
-For running train and test without GPU:
+For training without GPU:
 
 ```
 python -u ./train_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --epochs 150 --data_dir preproc_files/soccer/
 ```
 
-In each epochs the best trained model so far will be saved inside '/models' directory with a file name 'Sentient_model2.bin'. The saved model can later be used for testing purpose on new data.
-After completing the training the command will also generate a file 'test_predicted_kg_attn.csv' where we can check predicted output along with given input test data.
+In each epoch, the best trained model so far will be saved inside '/models' directory with a file name 'Sentient_model2.bin'. The saved model can later be used for testing purpose on new data.
+
+To test the system run the following command:
+
+For testing with GPU:
+
+```
+python -u ./test_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --gpu 1 --epochs 150 --data_dir preproc_files/soccer/
+```
+
+For testing without GPU:
+
+```
+python -u ./test_kg_copy.py --batch_size 32 --hidden_size 128 --teacher_forcing 12 --resp_len 10 --lr 0.001 --num_layer 1 --epochs 150 --data_dir preproc_files/soccer/
+```
+
+After running the test command, a file 'test_predicted_kg_attn.csv' will be generated where we can check predicted output along with given input test data.
+
+## Original Source
+
+### Dataset
+
+Thanks to the authors for making the dataset public - https://github.com/SmartDataAnalytics/KG-Copy_Network/tree/master/soccer_conversations
+
+### Baseline Source Code
+
+- Key value memory networks - https://github.com/sunnysai12345/KVMemnn
+- GUpdater - https://github.com/esddse/GUpdater
+- KG-Copy_network - https://github.com/SmartDataAnalytics/KG-Copy_Network
+
+### New Additions
+
+- Seperated training and testing code
+- Added new questions for testing purpose
+- Updated Sentient Attention class to increase the similarity score between the senetence embedding of question and knowledge graph.
+- Updated Sentient Attention class by adding layers for sentinel function

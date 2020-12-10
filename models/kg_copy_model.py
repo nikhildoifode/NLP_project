@@ -425,6 +425,8 @@ class SentientAttention(nn.Module):
         # Get cosine similarity with kb subject and relations and multiply with mask
         kb_cosine = self.cosine_sim(context, kb_avg_emb)  # B X kb_size
         kb_cosine = self.out_kb(torch.sigmoid(kb_cosine)) * kb_mask
+
         inp = torch.cat([(context.squeeze() + decoder_out), kb_cosine, last_sentient.unsqueeze(1)], dim=-1)
         sentient = self.sentinel_gate(inp)  # B X 1
+
         return sentient, kb_cosine
