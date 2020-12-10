@@ -9,9 +9,9 @@ This project is implemented in python 3.6 and pytorch 1.2.0. Follow these steps 
 - Activate the Conda environment: ```conda activate nlp_proj```
 - Install the requirements: ```pip install -r requirements.txt```
 
-> NOTE: The following pre-processing step is not required if you just want to train/test the system on our processed data (since all the required pre-processed data are included in the project directory).
-
 ## Pre-processing
+
+> NOTE: The following pre-processing step is not required if you just want to train/test the system on our processed data (since all the required pre-processed data are included in the project directory). You can skip to train and test part.
 
 ### Building Knowledge Graph
 
@@ -50,7 +50,7 @@ python utils/generate_entities_soccer.py
 
 ## Train & Test
 
-> NOTE: The training step is not required if you just want to test the system on proposed model (since the required model is already included in the project directory). You can just run the test command in this case.
+> NOTE: The training step is not required if you just want to test the system on proposed model (since the required model is already included in the project directory). You can just run the test command in that case.
 
 To train the system run the following command:
 
