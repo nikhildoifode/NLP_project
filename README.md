@@ -2,7 +2,7 @@
 
 ## Requirements
 
-This project is implemented in python 3.6 and pytorch 1.2.0. Follow these steps to setup your environment:
+This project is implemented in python 3.6 and pytorch 2.6.0. Follow these steps to setup your environment:
 
 - [Download and install Conda](http://https://conda.io/projects/conda/en/latest/user-guide/install/index.html "Download and install Conda")
 - Create a Conda environment with Python 3.6: ```conda create -n nlp_proj python=3.6```
